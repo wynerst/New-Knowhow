@@ -1,0 +1,4456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Senayan3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-25 13:37+0700\n"
+"PO-Revision-Date: 2010-12-25 13:39+0700\n"
+"Last-Translator: Arif Syamsudin <buitenzorg812@lc.vlsm.org>\n"
+"Language-Team: Arie Nugraha; Hendro Wicaksono; Wardiyono <dicarve@yahoo.com; hendrowicaksono@yahoo.com; wynerst@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Indonesian\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_ngettext:1,2\n"
+"X-Poedit-Basepath: ../../../../../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:42
+msgid "Web Online Public Access Catalog - Use the search options to find documents quickly"
+msgstr "Web Online Public Access Catalog - Gunakan fasilitas pencarian untuk mempercepat anda menemukan data katalog"
+
+#: index.php:51
+msgid "You are currently Logged on as member"
+msgstr "Anda saat ini login sebagai anggota"
+
+#: index.php:51
+msgid "LOGOUT"
+msgstr "KELUAR"
+
+#: sysconfig.inc.php:484
+msgid "Personal Name"
+msgstr "Nama Orang"
+
+#: sysconfig.inc.php:485
+msgid "Organizational Body"
+msgstr "Badan Organisasi"
+
+#: sysconfig.inc.php:486
+msgid "Conference"
+msgstr "Konferensi"
+
+#: sysconfig.inc.php:489
+msgid "Topic"
+msgstr "Topik"
+
+#: sysconfig.inc.php:490
+msgid "Geographic"
+msgstr "Geografis"
+
+#: sysconfig.inc.php:491
+msgid "Name"
+msgstr "Nama"
+
+#: sysconfig.inc.php:492
+msgid "Temporal"
+msgstr "Masa"
+
+#: sysconfig.inc.php:493
+msgid "Genre"
+msgstr "Aliran"
+
+#: sysconfig.inc.php:494
+msgid "Occupation"
+msgstr "Pekerjaan"
+
+#: sysconfig.inc.php:497
+msgid "Primary Author"
+msgstr "Pengarang Utama"
+
+#: sysconfig.inc.php:498
+msgid "Additional Author"
+msgstr "Pengarang Tambahan"
+
+#: sysconfig.inc.php:499
+msgid "Editor"
+msgstr "Editor"
+
+#: sysconfig.inc.php:500
+msgid "Translator"
+msgstr "Penerjemah"
+
+#: sysconfig.inc.php:501
+msgid "Director"
+msgstr "Direktur"
+
+#: sysconfig.inc.php:502
+msgid "Producer"
+msgstr "Produser"
+
+#: sysconfig.inc.php:503
+msgid "Composer"
+msgstr "Penggubah"
+
+#: sysconfig.inc.php:504
+msgid "Illustrator"
+msgstr "Ilustrator"
+
+#: sysconfig.inc.php:505
+msgid "Creator"
+msgstr "Pencipta"
+
+#: sysconfig.inc.php:506
+msgid "Contributor"
+msgstr "Kontributor"
+
+#: lib/detail.inc.php:159
+msgid "Click to view others documents with this author"
+msgstr "Klik disini untuk mencari dokumen lain dari pengarang ini"
+
+#: lib/detail.inc.php:173
+msgid "Click to view others documents with this subject"
+msgstr "Klik disini untuk mencari dokumen lain dengan subjek ini"
+
+#: lib/detail.inc.php:218
+msgid "View node catalog data"
+msgstr "Lihat catalog pada node"
+
+#: lib/biblio_list_model.inc.php:179
+#: lib/biblio_list_model.inc.php:200
+msgid "Record Detail"
+msgstr "Detail Rekod"
+
+#: lib/biblio_list_model.inc.php:222
+msgid "Author(s)"
+msgstr "Pengarang"
+
+#: lib/biblio_list_model.inc.php:262
+msgid "mark this"
+msgstr "tandai ini"
+
+#: lib/biblio_list_model.inc.php:285
+msgid "Put marked selection into basket"
+msgstr "Taruh pilihan yang ditandai ke dalam keranjang"
+
+#: lib/contents/common.inc.php:32
+msgid "All Locations"
+msgstr "Semua Lokasi"
+
+#: lib/contents/common.inc.php:41
+msgid "All Collections"
+msgstr "Semua Koleksi"
+
+#: lib/contents/common.inc.php:50
+msgid "All GMD/Media"
+msgstr "Semua GMD/Media"
+
+#: lib/contents/login.inc.php:55
+msgid "Please supply valid username and password"
+msgstr "Lengkapi username dan password dengan benar"
+
+#: lib/contents/login.inc.php:97
+msgid "Welcome to Library Automation, "
+msgstr "Selamat Datang di Otomasi Perpustakaan,"
+
+#: lib/contents/login.inc.php:108
+msgid "Wrong Username or Password. ACCESS DENIED"
+msgstr "Username atau Password salah. ANDA TIDAK BERHAK MELANJUTKAN"
+
+#: lib/contents/login.inc.php:119
+msgid "Your browser does not support Javascript or Javascript is disabled. Application won't run without Javascript!"
+msgstr "Browser anda tidak mendukung Javascript atau Javascript tidak diaktifkan. Aplikasi tidak dapat dijalankan tanpa Javascript!"
+
+#: lib/contents/item_list.php:53
+msgid "There is no item/copy for this title yet"
+msgstr "Tidak ada item untuk judul ini"
+
+#: lib/contents/item_list.php:72
+msgid "Currently On Loan (Due on"
+msgstr "Sedang dipinjam (jatuh tempo"
+
+#: lib/contents/item_list.php:74
+msgid "Available but not for loan"
+msgstr "Tersedia namun tidak untuk dipinjamkan"
+
+#: lib/contents/item_list.php:76
+msgid "Available"
+msgstr "Tersedia"
+
+#: lib/contents/member.inc.php:35
+msgid "Welcome to Member's Area where you can view your current loan information and view your membership status."
+msgstr "Selamat Datang di Area Anggota, dimana Anda bisa melihat status keanggotaan dan peminjaman Anda"
+
+#: lib/contents/member.inc.php:61
+msgid "Please fill your Username and Password to Login!"
+msgstr "Mohon isi Username dan Password untuk Login!"
+
+#: lib/contents/member.inc.php:102
+msgid "Login FAILED! Wrong username or password!"
+msgstr "Login GAGAL! Username/E-mail atau password salah!"
+
+#: lib/contents/member.inc.php:112
+msgid "Library Member Login"
+msgstr "Login Anggota Perpustakaan"
+
+#: lib/contents/member.inc.php:113
+msgid "Please insert your member ID and password given by library system administrator. If you are library's member and don't have a password yet, please contact library staff."
+msgstr "Masukan ID anggota serta Password yang diberikan oleh administrator sistem/pustakawan. Jika Anda anggota perpustakaan namun belum memiliki password, hubungi staff perpustakaan."
+
+#: lib/contents/member.inc.php:140
+#: lib/contents/member.inc.php:388
+#: lib/contents/visitor.inc.php:106
+msgid "Member ID"
+msgstr "ID Anggota"
+
+#: lib/contents/member.inc.php:142
+msgid "Password"
+msgstr "Sandi Login"
+
+#: lib/contents/member.inc.php:165
+msgid "Login"
+msgstr "Masuk"
+
+#: lib/contents/member.inc.php:182
+msgid "Current Password"
+msgstr "Password Saat Ini"
+
+#: lib/contents/member.inc.php:186
+msgid "New Password"
+msgstr "Password Baru"
+
+#: lib/contents/member.inc.php:190
+msgid "Confirm Password"
+msgstr "Konfirmasi Password"
+
+#: lib/contents/member.inc.php:194
+#: lib/contents/member.inc.php:536
+msgid "Change Password"
+msgstr "Ubah Password"
+
+#: lib/contents/member.inc.php:330
+msgid "Remove"
+msgstr "Hapus"
+
+#: lib/contents/member.inc.php:330
+#: lib/contents/member.inc.php:445
+msgid "Title"
+msgstr "Judul"
+
+#: lib/contents/member.inc.php:353
+msgid "Reserve title(s) on Basket"
+msgstr "Reservasi ditambahkan ke dalam Keranjang"
+
+#: lib/contents/member.inc.php:354
+msgid "Clear Basket"
+msgstr "Bersihkan Keranjang"
+
+#: lib/contents/member.inc.php:355
+msgid "Remove selected title(s) from Basket"
+msgstr "Hapus judul terpilih dari Keranjang"
+
+#: lib/contents/member.inc.php:357
+msgid "title(s) on basket"
+msgstr "Judul dalam keranjang"
+
+#: lib/contents/member.inc.php:378
+msgid "Your Membership Already EXPIRED! Please extend your membership."
+msgstr "Keanggotaan anda sudah HABIS MASA BERLAKU-nya! Harap perpanjang keanggotaan anda segera."
+
+#: lib/contents/member.inc.php:381
+msgid "Membership currently in pending state, no loan transaction can be made yet."
+msgstr "Keanggotaan dalam status ditunda, tidak bisa melakukan transaksi peminjaman."
+
+#: lib/contents/member.inc.php:387
+msgid "Member Name"
+msgstr "Nama Anggota"
+
+#: lib/contents/member.inc.php:391
+msgid "Member Email"
+msgstr "Email Anggota"
+
+#: lib/contents/member.inc.php:392
+msgid "Member Type"
+msgstr "Tipe Keanggotaan"
+
+#: lib/contents/member.inc.php:395
+msgid "Register Date"
+msgstr "Tanggal Registrasi"
+
+#: lib/contents/member.inc.php:396
+msgid "Expiry Date"
+msgstr "Berlaku Hingga"
+
+#: lib/contents/member.inc.php:399
+#: lib/contents/visitor.inc.php:108
+msgid "Institution"
+msgstr "Institusi"
+
+#: lib/contents/member.inc.php:414
+msgid "OVERDUED"
+msgstr "TERLAMBAT"
+
+#: lib/contents/member.inc.php:444
+msgid "Item Code"
+msgstr "Kode Koleksi"
+
+#: lib/contents/member.inc.php:446
+msgid "Loan Date"
+msgstr "Tanggal Pinjam"
+
+#: lib/contents/member.inc.php:447
+msgid "Due Date"
+msgstr "Tanggal Harus Kembali"
+
+#: lib/contents/member.inc.php:460
+msgid "item(s) currently on loan"
+msgstr "koleksi yang sedang dipinjam"
+
+#: lib/contents/member.inc.php:468
+msgid "Your password have been changed successfully."
+msgstr "Sandi anda sudah berhasil dirubah."
+
+#: lib/contents/member.inc.php:471
+msgid "Current password entered WRONG! Please insert the right password!"
+msgstr "Sandi yang diberikan SALAH! Silahkan masukkan sandi yang benar"
+
+#: lib/contents/member.inc.php:473
+msgid "Password confirmation FAILED! Make sure to check undercase or uppercase letters!"
+msgstr "Konfirmasi sandi GAGAL! Periksa ukuran huruf yang digunakan!"
+
+#: lib/contents/member.inc.php:475
+msgid "Password update FAILED! ERROR ON DATABASE!"
+msgstr "Perubahan sandi GAGAL! DATABASE ERROR!"
+
+#: lib/contents/member.inc.php:486
+msgid "Reservation e-mail sent successfully!"
+msgstr "Surel untuk reservasi berhasil dikirim!"
+
+#: lib/contents/member.inc.php:528
+msgid "Member Detail"
+msgstr "Data Anggota"
+
+#: lib/contents/member.inc.php:530
+msgid "Your Current Loan"
+msgstr "Peminjaman Anda"
+
+#: lib/contents/member.inc.php:532
+msgid "Your Title Basket"
+msgstr "Keranjang Judul Anda"
+
+#: lib/contents/attachment_list.php:53
+msgid "No Attachment"
+msgstr "Tidak ada Lampiran"
+
+#: lib/contents/visitor.inc.php:90
+msgid ", thank you for inserting your data to our visitor log"
+msgstr ", terimakasih sudah memasukkan data Anda pada daftar pengunjung kami"
+
+#: lib/contents/visitor.inc.php:92
+msgid "Sorry, Please fill institution field if you are not library member"
+msgstr "Maaf, jika Anda bukan anggota perpustakaan, silahkan beritahu kami nama institusi Anda "
+
+#: lib/contents/visitor.inc.php:94
+msgid "Error inserting counter data to database!"
+msgstr "Terjadi kesalahan dalam memasukkan data penghitung ke dalam basisdata!"
+
+#: lib/contents/visitor.inc.php:102
+msgid "Visitor Counter"
+msgstr "Penghitung jumlah pengunjung"
+
+#: lib/contents/visitor.inc.php:104
+msgid "Please insert your library member ID otherwise your full name instead"
+msgstr "Seilahkan masukkan Nomor Anggota Anda atau jika belum memiliki, masukkan nama lengkap Anda"
+
+#: lib/contents/visitor.inc.php:106
+msgid "Visitor Name"
+msgstr "Nama Pengunjung"
+
+#: lib/contents/visitor.inc.php:110
+msgid "Add"
+msgstr "Tambah"
+
+#: lib/contents/show_detail.inc.php:60
+msgid "Back To Previous"
+msgstr "Kembali ke sebelumnya"
+
+#: lib/contents/default.inc.php:133
+#: lib/contents/default.inc.php:144
+msgid "Found  <strong>{biblio_list->num_rows}</strong> from your keywords"
+msgstr "Ditemukan  <strong>{biblio_list->num_rows}</strong> dari pencarian anda melalui kata kunci"
+
+#: lib/contents/default.inc.php:177
+msgid "You currently on page <strong>{page}</strong> of <strong>{total_pages}</strong> page(s)"
+msgstr "Saat ini anda berada pada halaman <strong>{page}</strong> dari total <strong>{total_pages}</strong> halaman"
+
+#: lib/contents/default.inc.php:184
+msgid "Query took"
+msgstr "Permintaan membutuhkan"
+
+#: lib/contents/default.inc.php:184
+msgid "second(s) to complete"
+msgstr "detik untuk selesai"
+
+#: lib/lang/localisation.php:65
+msgid "Arabic"
+msgstr "Bahasa Arab"
+
+#: lib/lang/localisation.php:66
+msgid "German"
+msgstr "Jerman"
+
+#: lib/lang/localisation.php:67
+msgid "English"
+msgstr "Inggris"
+
+#: lib/lang/localisation.php:68
+msgid "Espanol"
+msgstr "Bahasa Spanyol"
+
+#: lib/lang/localisation.php:69
+msgid "Indonesian"
+msgstr "Indonesia"
+
+#: ucs/themes/lightweight/detail_template.php:12
+#: ucs/themes/lightweight/custom_frontpage_record.inc.php:7
+#: ucs/themes/default/detail_template.php:16
+#: ucs/themes/default/custom_frontpage_record.inc.php:7
+msgid "Edition"
+msgstr "Edisi"
+
+#: ucs/themes/lightweight/detail_template.php:16
+#: ucs/themes/lightweight/custom_frontpage_record.inc.php:11
+#: ucs/themes/default/detail_template.php:20
+#: ucs/themes/default/custom_frontpage_record.inc.php:11
+msgid "Call Number"
+msgstr "No. Panggil"
+
+#: ucs/themes/lightweight/detail_template.php:20
+#: ucs/themes/lightweight/custom_frontpage_record.inc.php:8
+#: ucs/themes/default/detail_template.php:24
+#: ucs/themes/default/custom_frontpage_record.inc.php:8
+#: ucs/themes/default/index_template.inc.php:55
+msgid "ISBN/ISSN"
+msgstr "ISBN/ISSN"
+
+#: ucs/themes/lightweight/detail_template.php:29
+#: ucs/themes/default/detail_template.php:33
+#: ucs/themes/default/index_template.inc.php:53
+msgid "Subject(s)"
+msgstr "Subyek/Subjek"
+
+#: ucs/themes/lightweight/detail_template.php:33
+#: ucs/themes/default/detail_template.php:37
+msgid "Classification"
+msgstr "Klasifikasi"
+
+#: ucs/themes/lightweight/detail_template.php:37
+#: ucs/themes/lightweight/custom_frontpage_record.inc.php:10
+#: ucs/themes/default/detail_template.php:41
+#: ucs/themes/default/custom_frontpage_record.inc.php:10
+msgid "Series Title"
+msgstr "Judul Seri"
+
+#: ucs/themes/lightweight/detail_template.php:40
+#: ucs/themes/default/detail_template.php:44
+#: ucs/themes/default/index_template.inc.php:57
+msgid "GMD"
+msgstr "GMD"
+
+#: ucs/themes/lightweight/detail_template.php:44
+#: ucs/themes/default/detail_template.php:48
+msgid "Language"
+msgstr "Bahasa"
+
+#: ucs/themes/lightweight/detail_template.php:48
+#: ucs/themes/default/detail_template.php:52
+msgid "Publisher"
+msgstr "Penerbit"
+
+#: ucs/themes/lightweight/detail_template.php:52
+#: ucs/themes/default/detail_template.php:56
+msgid "Publishing Year"
+msgstr "Tahun Terbit"
+
+#: ucs/themes/lightweight/detail_template.php:56
+#: ucs/themes/default/detail_template.php:60
+msgid "Publishing Place"
+msgstr "Tempat Terbit"
+
+#: ucs/themes/lightweight/detail_template.php:60
+#: ucs/themes/lightweight/custom_frontpage_record.inc.php:9
+#: ucs/themes/default/detail_template.php:64
+#: ucs/themes/default/custom_frontpage_record.inc.php:9
+msgid "Collation"
+msgstr "Deskripsi Fisik"
+
+#: ucs/themes/lightweight/detail_template.php:64
+#: ucs/themes/default/detail_template.php:68
+msgid "Abstract/Notes"
+msgstr "Abstrak"
+
+#: ucs/themes/lightweight/detail_template.php:68
+#: ucs/themes/default/detail_template.php:72
+msgid "Specific Detail Info"
+msgstr "Detil Spesifik"
+
+#: ucs/themes/lightweight/detail_template.php:72
+#: ucs/themes/default/detail_template.php:76
+msgid "Image"
+msgstr "Gambar Sampul"
+
+#: ucs/themes/lightweight/detail_template.php:76
+msgid "File Attachment"
+msgstr "Lampiran"
+
+#: ucs/themes/lightweight/index_template.inc.php:20
+#: ucs/themes/default/index_template.inc.php:24
+msgid "Home"
+msgstr "Beranda depan"
+
+#: ucs/themes/lightweight/index_template.inc.php:21
+msgid "Library Information"
+msgstr "Info Perpustakaan"
+
+#: ucs/themes/lightweight/index_template.inc.php:22
+msgid "Help on Search"
+msgstr "Bantuan pencarian"
+
+#: ucs/themes/lightweight/index_template.inc.php:39
+#: ucs/themes/default/index_template.inc.php:66
+#: ucs/themes/default/index_template.inc.php:90
+msgid "Search"
+msgstr "Pencarian"
+
+#: ucs/themes/default/detail_template.php:12
+#: ucs/themes/default/custom_frontpage_record.inc.php:12
+msgid "Collection Location"
+msgstr "Statistik Koleksi"
+
+#: ucs/themes/default/index_template.inc.php:25
+msgid "Union Catalog Information"
+msgstr "Info Katalog Induk"
+
+#: ucs/themes/default/index_template.inc.php:26
+msgid "Help"
+msgstr "Bantuan"
+
+#: ucs/themes/default/index_template.inc.php:38
+msgid "Select Language"
+msgstr "Select Language"
+
+#: ucs/themes/default/index_template.inc.php:47
+msgid "Advanced Search"
+msgstr "Pencarian Spesifik"
+
+#: ucs/themes/default/index_template.inc.php:61
+msgid "Location"
+msgstr "Lokasi"
+
+#: ucs/themes/default/index_template.inc.php:88
+msgid "Quick Search"
+msgstr "Pencarian Cepat"
+
+#: ucs/includes/contents/login.inc.php:61
+msgid "Welcome to Union Catalog Server administration,"
+msgstr "Selamat Datang di halaman administrasi Union Server Catalog"
+
+#: ucs/admin/logout.php:32
+msgid "You Have Been Logged Out From Union Catalog Server console"
+msgstr "Anda telah keluar dari Konsole Katalog Induk"
+
+#: ucs/admin/index.php:57
+msgid "Union Catalog Server administration console. you are currently logged in as"
+msgstr "Konsole administrasi Katalog Induk. Saat ini Anda login sebagai"
+
+#: ucs/admin/modules/bibliography/pop_topic.php:91
+msgid "Subject FAILED to Add. Please Contact System Administrator"
+msgstr "Subyek GAGAL Ditambahkan. Hubungi System Administrator"
+
+#: ucs/admin/modules/bibliography/pop_topic.php:116
+msgid "Subject added!"
+msgstr "Subyek berhasil ditambahkan!"
+
+#: ucs/admin/modules/bibliography/pop_topic.php:127
+msgid "Add Subject"
+msgstr "Tambahkan Subyek"
+
+#: ucs/admin/modules/bibliography/pop_topic.php:133
+msgid "Keyword"
+msgstr "Kata kunci"
+
+#: ucs/admin/modules/bibliography/pop_topic.php:147
+msgid "Type to search for existing topics or to add a new one"
+msgstr "Ketik untuk mencari topik atau menambah baru"
+
+#: ucs/admin/modules/bibliography/pop_topic.php:149
+#: ucs/admin/modules/bibliography/pop_author.php:148
+msgid "Insert To Bibliography"
+msgstr "Sisipkan Dalam Bibliografi"
+
+#: ucs/admin/modules/bibliography/export.php:37
+#: ucs/admin/modules/bibliography/index.php:43
+#: ucs/admin/modules/bibliography/index.php:211
+msgid "You are not authorized to view this section"
+msgstr "Anda tidak memiliki wewenang untuk masuk ke bagian ini!"
+
+#: ucs/admin/modules/bibliography/export.php:43
+msgid "Required fields (*)  must be filled correctly!"
+msgstr "Ruas penting (bertanda *) harus diisi dengan benar!"
+
+#: ucs/admin/modules/bibliography/export.php:102
+msgid "Error on query to database, Export FAILED!"
+msgstr "Terdapat kesalahan dalam melakukan query ke basisdata. Ekspor GAGAL!"
+
+#: ucs/admin/modules/bibliography/export.php:140
+msgid "There is no record in bibliographic database yet, Export FAILED!"
+msgstr "Belum ada data dalam tabel bibliografi di basisdata. Ekspor GAGAL!"
+
+#: ucs/admin/modules/bibliography/export.php:149
+msgid "EXPORT TOOL"
+msgstr "Fasilitas Eksport"
+
+#: ucs/admin/modules/bibliography/export.php:151
+msgid "Export bibliographics data to CSV file"
+msgstr "Eksport data bibliografi data kedalam format CSV"
+
+#: ucs/admin/modules/bibliography/export.php:158
+msgid "Export Now"
+msgstr "Ekspor Sekarang"
+
+#: ucs/admin/modules/bibliography/export.php:167
+msgid "Field Separator"
+msgstr "Pemisah Antar Ruas"
+
+#: ucs/admin/modules/bibliography/export.php:169
+msgid "Field Enclosed With"
+msgstr "Batas Awal-Akhir Ruas"
+
+#: ucs/admin/modules/bibliography/export.php:173
+msgid "Record Separator"
+msgstr "Batas Pemisah Rekod"
+
+#: ucs/admin/modules/bibliography/export.php:175
+msgid "Number of Records To Export (0 for all records)"
+msgstr "Jumlah Rekod untuk diekspor (0 untuk semua rekod)"
+
+#: ucs/admin/modules/bibliography/export.php:177
+msgid "Start From Record"
+msgstr "Mulai dari rekod ke"
+
+#: ucs/admin/modules/bibliography/iframe_author.php:61
+msgid "Author succesfully removed!"
+msgstr "Pengarang berhasil dihapus!"
+
+#: ucs/admin/modules/bibliography/iframe_author.php:72
+msgid "Author removed!"
+msgstr "Pengarang dihapus!"
+
+#: ucs/admin/modules/bibliography/pop_author.php:88
+msgid "Author succesfully updated!"
+msgstr "Pengarang berhasil diperbaharui!"
+
+#: ucs/admin/modules/bibliography/pop_author.php:92
+msgid "Author FAILED to Add. Please Contact System Administrator"
+msgstr "Pengarang GAGAL Ditambahkan. Hubungi System Administrator"
+
+#: ucs/admin/modules/bibliography/pop_author.php:117
+msgid "Author added!"
+msgstr "Pengarang berhasil ditambahkan!"
+
+#: ucs/admin/modules/bibliography/pop_author.php:128
+msgid "Add Author"
+msgstr "Tambah Pengarang"
+
+#: ucs/admin/modules/bibliography/pop_author.php:133
+msgid "Author Name"
+msgstr "Nama Pengarang"
+
+#: ucs/admin/modules/bibliography/pop_author.php:146
+msgid "Type to search for existing authors or to add a new one"
+msgstr "Ketik untuk mencari pengarang atau menambah baru"
+
+#: ucs/admin/modules/bibliography/submenu.php:23
+#: ucs/admin/modules/bibliography/index.php:196
+msgid "Bibliographic"
+msgstr "Katalog"
+
+#: ucs/admin/modules/bibliography/submenu.php:24
+#: ucs/admin/modules/bibliography/index.php:196
+msgid "Bibliographic List"
+msgstr "Daftar Bibliografi"
+
+#: ucs/admin/modules/bibliography/submenu.php:24
+msgid "Show Existing Bibliographic Data"
+msgstr "Daftar Data Katalog"
+
+#: ucs/admin/modules/bibliography/submenu.php:25
+msgid "Tools"
+msgstr "Peralatan"
+
+#: ucs/admin/modules/bibliography/submenu.php:26
+msgid "Export Data"
+msgstr "Ekspor Data"
+
+#: ucs/admin/modules/bibliography/submenu.php:26
+msgid "Export Bibliographic Data To CSV format"
+msgstr "Ekspor Data Bibliografi ke Format CSV"
+
+#: ucs/admin/modules/bibliography/submenu.php:27
+#: ucs/admin/modules/bibliography/nodes_removal.php:57
+msgid "Nodes Data Removal"
+msgstr "Penghapusan Data Simpul"
+
+#: ucs/admin/modules/bibliography/submenu.php:27
+msgid "Mass Nodes Data Removal"
+msgstr "Hapus Data Simpul secara Massal"
+
+#: ucs/admin/modules/bibliography/nodes_removal.php:32
+msgid "ERROR ON PROCESSING DATA REMOVAL REQUEST"
+msgstr "TERJADI KESALAHAN PADA PROSES PERMINTAAN PENGHAPUSAN DATA"
+
+#: ucs/admin/modules/bibliography/nodes_removal.php:44
+#, php-format
+msgid "%d records of %s removed succesfully from database"
+msgstr "%d rekod dari %s berhasil dihapus dari basistdata"
+
+#: ucs/admin/modules/bibliography/nodes_removal.php:59
+#: ucs/admin/modules/bibliography/nodes_removal.php:60
+msgid "Select Node"
+msgstr "Pilih Simpul"
+
+#: ucs/admin/modules/bibliography/nodes_removal.php:67
+msgid "Remove All Selected Node's Data"
+msgstr "Hapus Semua Data Simpul Terpilih"
+
+#: ucs/admin/modules/bibliography/nodes_removal.php:89
+#, php-format
+msgid "There is %d records found.<br /> Are you sure to REMOVE ALL DATA of %s node? Once it done there is no way you can undo this action!"
+msgstr "Ditemukan %d rekod.<br /> Apakah Anda yakin untuk MENGHAPUS SELURUH DATA %s simpul? Data yang hilang tidak dapat dikembalikan!"
+
+#: ucs/admin/modules/bibliography/nodes_removal.php:94
+msgid "I'm Very Sure to Remove ALL DATA"
+msgstr "Saya sudah Yakin untuk Menghapus SELURUH DATA"
+
+#: ucs/admin/modules/bibliography/nodes_removal.php:95
+msgid "CANCEL"
+msgstr "BATALKAN"
+
+#: ucs/admin/modules/bibliography/nodes_removal.php:102
+#, php-format
+msgid "Node %s doesn't have any record to remove!"
+msgstr "Tidak ada rekod dalam simpul %s untuk dihapuskan!"
+
+#: ucs/admin/modules/bibliography/nodes_removal.php:105
+msgid "Node Undefined on server!"
+msgstr "Server tidak dapat mendefinisikan simpul"
+
+#: ucs/admin/modules/bibliography/index.php:51
+msgid "Title can not be empty"
+msgstr "Judul harus diisi"
+
+#: ucs/admin/modules/bibliography/index.php:115
+#: ucs/admin/modules/bibliography/index.php:119
+msgid "Image Uploaded Successfully"
+msgstr "Gambar Berhasil Diunggah"
+
+#: ucs/admin/modules/bibliography/index.php:135
+msgid "Bibliography Data Successfully Updated"
+msgstr "Data bibliografi berhasil diperbaharui"
+
+#: ucs/admin/modules/bibliography/index.php:146
+msgid "Bibliography Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data bibliografi GAGAL diperbaharui. Hubungi System Administrator untuk pemecahan"
+
+#: ucs/admin/modules/bibliography/index.php:182
+#: ucs/admin/modules/master_file/publisher.php:103
+msgid "All Data Successfully Deleted"
+msgstr "Semua Data Berhasil Dihapus"
+
+#: ucs/admin/modules/bibliography/index.php:185
+#: ucs/admin/modules/master_file/publisher.php:106
+msgid ""
+"Some or All Data NOT deleted successfully!\\n"
+"Please contact system administrator"
+msgstr ""
+"Sebagian atau semua data GAGAL dihapus!\\n"
+"Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/bibliography/index.php:200
+msgid "All Fields"
+msgstr "Semua Ruas"
+
+#: ucs/admin/modules/bibliography/index.php:200
+msgid "Title/Series Title"
+msgstr "Judul Seri"
+
+#: ucs/admin/modules/bibliography/index.php:200
+msgid "Topics"
+msgstr "Topik"
+
+#: ucs/admin/modules/bibliography/index.php:200
+msgid "Authors"
+msgstr "Pengarang"
+
+#: ucs/admin/modules/bibliography/index.php:224
+#: ucs/admin/modules/master_file/publisher.php:140
+msgid "Save"
+msgstr "Simpan"
+
+#: ucs/admin/modules/bibliography/index.php:241
+#: ucs/admin/modules/master_file/publisher.php:155
+msgid "Update"
+msgstr "Perbaharui"
+
+#: ucs/admin/modules/bibliography/index.php:254
+msgid "Authors/Roles"
+msgstr "Pengarang/Peran"
+
+#: ucs/admin/modules/bibliography/index.php:254
+msgid "Add Author(s)"
+msgstr "Tambah Data Pengarang"
+
+#: ucs/admin/modules/bibliography/index.php:268
+msgid "Not Applicable"
+msgstr "Tidak Digunakan"
+
+#: ucs/admin/modules/bibliography/index.php:274
+msgid "Use this for Serial publication"
+msgstr "Gunakan untuk koleksi terbitan berseri"
+
+#: ucs/admin/modules/bibliography/index.php:275
+msgid "Frequency"
+msgstr "Kala Terbit"
+
+#: ucs/admin/modules/bibliography/index.php:313
+msgid "Subjects/Topics"
+msgstr "Subyek/Topik"
+
+#: ucs/admin/modules/bibliography/index.php:313
+msgid "Add Subject(s)"
+msgstr "Tambah Data Subyek/Subjek"
+
+#: ucs/admin/modules/bibliography/index.php:338
+msgid "Show"
+msgstr "Tunjukan"
+
+#: ucs/admin/modules/bibliography/index.php:339
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: ucs/admin/modules/bibliography/index.php:340
+msgid "Hide in OPAC"
+msgstr "Sembunyikan di OPAC"
+
+#: ucs/admin/modules/bibliography/index.php:345
+msgid "You are going to edit biblio data"
+msgstr "Anda akan mengubah data biblio"
+
+#: ucs/admin/modules/bibliography/index.php:345
+msgid "Last Updated"
+msgstr "Terakhir diubah"
+
+#: ucs/admin/modules/bibliography/index.php:393
+#: ucs/admin/modules/bibliography/index.php:400
+msgid "Node"
+msgstr "Simpul"
+
+#: ucs/admin/modules/bibliography/index.php:394
+#: ucs/admin/modules/bibliography/index.php:401
+#: ucs/admin/modules/master_file/publisher.php:164
+#: ucs/admin/modules/master_file/publisher.php:179
+#: ucs/admin/modules/master_file/publisher.php:184
+msgid "Last Update"
+msgstr "Perubahan Terakhir"
+
+#: ucs/admin/modules/bibliography/index.php:447
+#: ucs/admin/modules/master_file/publisher.php:204
+msgid "Found <strong>{result->num_rows}</strong> from your keywords"
+msgstr "Ditemukan  <strong>{result->num_rows}</strong> dari pencarian anda melalui kata kunci"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:82
+msgid "Upload FAILED! Forbidden file type or file size too big!"
+msgstr "Unggah GAGAL! Jenis file terlarang atau ukuran terlalu besar!"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:131
+msgid "File Attachment data updated!"
+msgstr "Data lampiran berhasil diubah!"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:135
+msgid "File Attachment data FAILED to update!"
+msgstr "Data lampiran GAGAL diubah!"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:140
+#: ucs/admin/modules/bibliography/pop_attach.php:155
+msgid "File Attachment uploaded succesfully!"
+msgstr "Data Lampiran berhasil diunggah!"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:144
+msgid "File Attachment data FAILED to save!"
+msgstr "Data Lampiran GAGAL disimpan!"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:164
+msgid "Upload Now"
+msgstr "Unggah Sekarang"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:194
+msgid "Repository ROOT"
+msgstr "Repositori ROOT"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:204
+msgid "Repo. Directory"
+msgstr "Direktori Repositori"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:208
+msgid "File To Attach"
+msgstr "Berkas Lampiran"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:211
+msgid "URL"
+msgstr "URL"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:213
+msgid "Description"
+msgstr "Deskripsi"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:215
+msgid "Public"
+msgstr "Publik"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:216
+msgid "Private"
+msgstr "Tertutup"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:217
+msgid "Access"
+msgstr "Akses"
+
+#: ucs/admin/modules/bibliography/pop_attach.php:224
+msgid "Access Limit by Member Type"
+msgstr "Pembatasan Akses berdasarkan Tipe Keanggotaan"
+
+#: ucs/admin/modules/master_file/publisher.php:39
+#: ucs/admin/modules/master_file/publisher.php:131
+msgid "You don't have enough privileges to access this area!"
+msgstr "Anda tidak punya hak akses ke bagian ini!"
+
+#: ucs/admin/modules/master_file/publisher.php:47
+msgid "Publisher Name can't be empty"
+msgstr "Nama Penerbit tidak boleh kosong"
+
+#: ucs/admin/modules/master_file/publisher.php:65
+msgid "Publisher Data Successfully Updated"
+msgstr "Data Penerbit Berhasil Diperbahatui"
+
+#: ucs/admin/modules/master_file/publisher.php:67
+msgid "PUBLISHER Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data PENERBIT GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/publisher.php:74
+msgid "New Publisher Data Successfully Saved"
+msgstr "Data Penerbit Baru Berhasil Disimpan"
+
+#: ucs/admin/modules/master_file/publisher.php:76
+msgid "Publisher Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data Penerbit GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/publisher.php:117
+msgid "Add New Publisher"
+msgstr "Tambah Penerbit Baru"
+
+#: ucs/admin/modules/master_file/publisher.php:118
+msgid "Publisher List"
+msgstr "Daftar Penerbit"
+
+#: ucs/admin/modules/master_file/publisher.php:160
+#: ucs/admin/modules/master_file/publisher.php:178
+#: ucs/admin/modules/master_file/publisher.php:182
+msgid "Publisher Name"
+msgstr "Nama Penerbit"
+
+#: ucs/admin/modules/master_file/publisher.php:164
+msgid "You are going to edit publisher data"
+msgstr "Anda akan meng-edit data penerbit"
+
+#: ucs/admin/modules/master_file/place.php:47
+msgid "Place Name can't be empty"
+msgstr "Nama Tempat tidak boleh kosong"
+
+#: ucs/admin/modules/master_file/place.php:65
+msgid "Place Data Successfully Updated"
+msgstr "Data Tempat Berhasil Diperbaharui"
+
+#: ucs/admin/modules/master_file/place.php:67
+msgid "Place Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data Tempat Terbit GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/place.php:74
+msgid "New Place Data Successfully Saved"
+msgstr "Data Tempat Baru Berhasil Disimpan"
+
+#: ucs/admin/modules/master_file/place.php:76
+msgid "Place Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data Tempat GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/place.php:117
+#: ucs/admin/modules/master_file/submenu.php:28
+msgid "Place"
+msgstr "Tempat"
+
+#: ucs/admin/modules/master_file/place.php:117
+msgid "Add New Place"
+msgstr "Nama Tempat Baru"
+
+#: ucs/admin/modules/master_file/place.php:118
+msgid "Place List"
+msgstr "Daftar Tempat"
+
+#: ucs/admin/modules/master_file/place.php:160
+#: ucs/admin/modules/master_file/place.php:177
+#: ucs/admin/modules/master_file/place.php:180
+#: ucs/admin/modules/master_file/submenu.php:28
+msgid "Place Name"
+msgstr "Nama-nama Tempat"
+
+#: ucs/admin/modules/master_file/place.php:164
+msgid "You are going to edit place data"
+msgstr "Anda akan mengedit data tempat"
+
+#: ucs/admin/modules/master_file/supplier.php:47
+msgid "Supplier Name can't be empty"
+msgstr "Nama Suplaiyer tidak boleh kosong"
+
+#: ucs/admin/modules/master_file/supplier.php:71
+msgid "Supplier Data Successfully Updated"
+msgstr "Data Suplaiyer Berhasil Diperbaharui"
+
+#: ucs/admin/modules/master_file/supplier.php:73
+msgid "Supplier Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data Suplaiyer GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/supplier.php:80
+msgid "New Supplier Data Successfully Saved"
+msgstr "Data Suplaiyer Baru Berhasil Disimpan"
+
+#: ucs/admin/modules/master_file/supplier.php:83
+msgid "Supplier Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data Suplaiyer GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/supplier.php:125
+msgid "Supplier"
+msgstr "Agen"
+
+#: ucs/admin/modules/master_file/supplier.php:125
+msgid "Add New Supplier"
+msgstr "Tambah Penyuplai/Agen"
+
+#: ucs/admin/modules/master_file/supplier.php:126
+msgid "Supplier List"
+msgstr "Daftar Penyuplai/Agen"
+
+#: ucs/admin/modules/master_file/supplier.php:168
+#: ucs/admin/modules/master_file/supplier.php:195
+#: ucs/admin/modules/master_file/supplier.php:201
+msgid "Supplier Name"
+msgstr "Nama Suplaiyer"
+
+#: ucs/admin/modules/master_file/supplier.php:170
+msgid "Address"
+msgstr "Alamat"
+
+#: ucs/admin/modules/master_file/supplier.php:172
+#: ucs/admin/modules/master_file/supplier.php:196
+#: ucs/admin/modules/master_file/supplier.php:202
+msgid "Contact"
+msgstr "Kontak"
+
+#: ucs/admin/modules/master_file/supplier.php:174
+#: ucs/admin/modules/master_file/supplier.php:197
+#: ucs/admin/modules/master_file/supplier.php:203
+msgid "Phone Number"
+msgstr "Nomor Telepon"
+
+#: ucs/admin/modules/master_file/supplier.php:176
+#: ucs/admin/modules/master_file/supplier.php:198
+#: ucs/admin/modules/master_file/supplier.php:204
+msgid "Fax Number"
+msgstr "Nomor Faks"
+
+#: ucs/admin/modules/master_file/supplier.php:178
+msgid "Account Number"
+msgstr "Nomor Akun"
+
+#: ucs/admin/modules/master_file/supplier.php:182
+msgid "You are going to edit Supplier data"
+msgstr "Anda akan meng-edit data Suplaiyer data"
+
+#: ucs/admin/modules/master_file/submenu.php:23
+#: ucs/admin/modules/master_file/topic.php:170
+#: ucs/admin/modules/master_file/topic.php:191
+#: ucs/admin/modules/master_file/topic.php:196
+#: ucs/admin/modules/master_file/author.php:169
+#: ucs/admin/modules/master_file/author.php:190
+#: ucs/admin/modules/master_file/author.php:195
+msgid "Authority Files"
+msgstr "Daftar Terkendali"
+
+#: ucs/admin/modules/master_file/submenu.php:24
+msgid "General Material Designation"
+msgstr "Format Fisik Dokumen"
+
+#: ucs/admin/modules/master_file/submenu.php:25
+msgid "Document Publisher"
+msgstr "Penerbit Dokumen"
+
+#: ucs/admin/modules/master_file/submenu.php:26
+#: ucs/admin/modules/master_file/author.php:119
+msgid "Author"
+msgstr "Pengarang"
+
+#: ucs/admin/modules/master_file/submenu.php:26
+msgid "Document Authors"
+msgstr "Pengarang Dokumen"
+
+#: ucs/admin/modules/master_file/submenu.php:27
+#: ucs/admin/modules/master_file/topic.php:120
+#: ucs/admin/modules/master_file/topic.php:163
+#: ucs/admin/modules/master_file/topic.php:189
+#: ucs/admin/modules/master_file/topic.php:194
+msgid "Subject"
+msgstr "Subyek"
+
+#: ucs/admin/modules/master_file/submenu.php:29
+#: ucs/admin/modules/master_file/doc_language.php:120
+msgid "Doc. Language"
+msgstr "Bahasa Dok."
+
+#: ucs/admin/modules/master_file/submenu.php:29
+msgid "Document Content Language"
+msgstr "Bahasa Konten Dokumen"
+
+#: ucs/admin/modules/master_file/topic.php:47
+msgid "Subject can't be empty"
+msgstr "Subyek tidak boleh kosong"
+
+#: ucs/admin/modules/master_file/topic.php:67
+msgid "Subject Data Successfully Updated"
+msgstr "Data Subyek Berhasil Diperbaharui"
+
+#: ucs/admin/modules/master_file/topic.php:69
+msgid "Subject Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Subyek GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/topic.php:76
+msgid "New Subject Data Successfully Saved"
+msgstr "Subyek Baru Berhasil Disimpan"
+
+#: ucs/admin/modules/master_file/topic.php:78
+msgid "Subject Data FAILED to Save. Please Contact System Administrator"
+msgstr "Subyek GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/topic.php:120
+msgid "Add New Subject"
+msgstr "Tambah Subyek Baru"
+
+#: ucs/admin/modules/master_file/topic.php:121
+msgid "Subject List"
+msgstr "Daftar Subyek"
+
+#: ucs/admin/modules/master_file/topic.php:168
+#: ucs/admin/modules/master_file/topic.php:190
+#: ucs/admin/modules/master_file/topic.php:195
+msgid "Subject Type"
+msgstr "Tipe Subyek"
+
+#: ucs/admin/modules/master_file/topic.php:174
+msgid "You are going to edit Subject data"
+msgstr "Anda akan meng-edit data Subyek"
+
+#: ucs/admin/modules/master_file/index.php:42
+#: ucs/admin/modules/master_file/index.php:135
+#: ucs/admin/modules/master_file/frequency.php:38
+#: ucs/admin/modules/master_file/frequency.php:132
+#: ucs/admin/modules/system/backup.php:35
+#: ucs/admin/modules/system/content.php:40
+#: ucs/admin/modules/system/content.php:143
+#: ucs/admin/modules/system/biblio_indexes.php:36
+#: ucs/admin/modules/system/biblio_indexes.php:42
+#: ucs/admin/modules/system/app_user.php:47
+#: ucs/admin/modules/system/app_user.php:175
+#: ucs/admin/modules/system/app_user.php:247
+#: ucs/admin/modules/system/module.php:32
+msgid "You don't have enough privileges to view this section"
+msgstr "Anda tidak memiliki hak untuk mengakses ke bagian ini"
+
+#: ucs/admin/modules/master_file/index.php:51
+msgid "GMD Code And Name can't be empty"
+msgstr "Kode dan Nama GMD tidak boleh kosong"
+
+#: ucs/admin/modules/master_file/index.php:70
+msgid "GMD Data Successfully Updated"
+msgstr "Data GMD Berhasil Diperbaharui"
+
+#: ucs/admin/modules/master_file/index.php:72
+msgid "GMD Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data GMD GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/index.php:78
+msgid "New GMD Data Successfully Saved"
+msgstr "GMD Baru Berhasil Disimpan"
+
+#: ucs/admin/modules/master_file/index.php:80
+msgid "GMD Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data GMD GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/index.php:121
+msgid "Add New GMD"
+msgstr "GMD Baru"
+
+#: ucs/admin/modules/master_file/index.php:122
+msgid "GMD List"
+msgstr "Daftar GMD"
+
+#: ucs/admin/modules/master_file/index.php:164
+#: ucs/admin/modules/master_file/index.php:183
+#: ucs/admin/modules/master_file/index.php:187
+msgid "GMD Code"
+msgstr "Kode GMD"
+
+#: ucs/admin/modules/master_file/index.php:166
+#: ucs/admin/modules/master_file/index.php:184
+#: ucs/admin/modules/master_file/index.php:188
+msgid "GMD Name"
+msgstr "Nama GMD"
+
+#: ucs/admin/modules/master_file/index.php:170
+msgid "You are going to edit gmd data"
+msgstr "Anda akan menyunting data GMD"
+
+#: ucs/admin/modules/master_file/frequency.php:67
+msgid "Frequency Data Successfully Updated"
+msgstr "Data Kala Terbit Berhasil Diperbaharui"
+
+#: ucs/admin/modules/master_file/frequency.php:69
+msgid "Frequency Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Kala Terbit GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/frequency.php:75
+msgid "New Frequency Data Successfully Saved"
+msgstr "Kala Terbit Baru Berhasil Disimpan"
+
+#: ucs/admin/modules/master_file/frequency.php:77
+msgid "Frequency Data FAILED to Save. Please Contact System Administrator"
+msgstr "Kala Terbit GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/frequency.php:118
+msgid "Add New Frequency"
+msgstr "Tambah Kala Terbit"
+
+#: ucs/admin/modules/master_file/frequency.php:119
+msgid "Frequency Available"
+msgstr "Daftar Kala Terbit"
+
+#: ucs/admin/modules/master_file/frequency.php:171
+#: ucs/admin/modules/master_file/frequency.php:197
+#: ucs/admin/modules/master_file/frequency.php:203
+msgid "Time Increment"
+msgstr "Selang Waktu"
+
+#: ucs/admin/modules/master_file/frequency.php:173
+msgid "Day"
+msgstr "Hari"
+
+#: ucs/admin/modules/master_file/frequency.php:174
+msgid "Week"
+msgstr "Minggu"
+
+#: ucs/admin/modules/master_file/frequency.php:175
+msgid "Month"
+msgstr "Bulan"
+
+#: ucs/admin/modules/master_file/frequency.php:176
+msgid "Year"
+msgstr "Tahun"
+
+#: ucs/admin/modules/master_file/frequency.php:177
+#: ucs/admin/modules/master_file/frequency.php:198
+#: ucs/admin/modules/master_file/frequency.php:204
+msgid "Time Unit"
+msgstr "Satuan Waktu"
+
+#: ucs/admin/modules/master_file/frequency.php:181
+msgid "You are going to edit Frequency data"
+msgstr "Anda akan menyunting data Kala Terbit"
+
+#: ucs/admin/modules/master_file/author.php:47
+msgid "Author name can't be empty"
+msgstr "Nama Pengarang tidak boleh kosong"
+
+#: ucs/admin/modules/master_file/author.php:67
+msgid "Author Data Successfully Updated"
+msgstr "Data Pengarang Berhasil Diperbaharui"
+
+#: ucs/admin/modules/master_file/author.php:69
+msgid "Author Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data Pengarang GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/author.php:76
+msgid "New Author Data Successfully Saved"
+msgstr "Pengarang Baru Berhasil Disimpan"
+
+#: ucs/admin/modules/master_file/author.php:78
+msgid "Author Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data tipe koleksi GAGAL disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/author.php:119
+msgid "Add New Author"
+msgstr "Tambah Pengarang Baru"
+
+#: ucs/admin/modules/master_file/author.php:120
+msgid "Author List"
+msgstr "Daftar Pengarang"
+
+#: ucs/admin/modules/master_file/author.php:167
+#: ucs/admin/modules/master_file/author.php:189
+#: ucs/admin/modules/master_file/author.php:194
+msgid "Authority Type"
+msgstr "Jenis Pengarang"
+
+#: ucs/admin/modules/master_file/author.php:173
+msgid "You are going to edit author data"
+msgstr "Anda akan menyunting data pengarang"
+
+#: ucs/admin/modules/master_file/doc_language.php:47
+msgid "Language ID or Name can't be empty"
+msgstr "Kode dan Nama Bahasa tidak boleh kosong"
+
+#: ucs/admin/modules/master_file/doc_language.php:66
+msgid "Language Data Successfully Updated"
+msgstr "Data Bahasa Berhasil Diperbaharui"
+
+#: ucs/admin/modules/master_file/doc_language.php:70
+msgid "Language Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data Bahasa GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/doc_language.php:77
+msgid "New Language Data Successfully Saved"
+msgstr "Bahasa Baru Berhasil Disimpan"
+
+#: ucs/admin/modules/master_file/doc_language.php:79
+msgid "Language Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data Bahasa GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/master_file/doc_language.php:120
+msgid "Add New Language"
+msgstr "Tambah Bahasa"
+
+#: ucs/admin/modules/master_file/doc_language.php:121
+msgid "Language List"
+msgstr "Daftar Bahasa"
+
+#: ucs/admin/modules/master_file/doc_language.php:163
+msgid "Language Code"
+msgstr "Kode Bahasa"
+
+#: ucs/admin/modules/master_file/doc_language.php:168
+msgid "You are going to edit language data"
+msgstr "Anda akan menyunting data bahasa"
+
+#: ucs/admin/modules/system/backup.php:41
+#: ucs/admin/modules/system/submenu.php:38
+msgid "Database Backup"
+msgstr "Salinan Pangkalan Data"
+
+#: ucs/admin/modules/system/backup.php:41
+msgid "Start New Backup"
+msgstr "Mulai Salinan Baru"
+
+#: ucs/admin/modules/system/content.php:49
+msgid "Title or Path can't be empty!"
+msgstr "Judul atau Path tidak boleh dikosongkan!"
+
+#: ucs/admin/modules/system/content.php:71
+msgid "Content data updated"
+msgstr "Data Konten berhasil diupdate"
+
+#: ucs/admin/modules/system/content.php:73
+msgid "Content data FAILED to update!"
+msgstr "Data Konten GAGAL diupdate!"
+
+#: ucs/admin/modules/system/content.php:81
+msgid "Content data saved"
+msgstr "Data Konten berhasil disimpan"
+
+#: ucs/admin/modules/system/content.php:83
+msgid "Content data FAILED to save!"
+msgstr "Data Konten GAGAL disimpan!"
+
+#: ucs/admin/modules/system/content.php:130
+#: ucs/admin/modules/system/submenu.php:28
+msgid "Content"
+msgstr "Konten"
+
+#: ucs/admin/modules/system/content.php:130
+msgid "Add New Content"
+msgstr "Add New Content"
+
+#: ucs/admin/modules/system/content.php:131
+msgid "Content List"
+msgstr "Content List"
+
+#: ucs/admin/modules/system/content.php:174
+#: ucs/admin/modules/system/content.php:207
+#: ucs/admin/modules/system/content.php:211
+msgid "Content Title"
+msgstr "Judul Konten"
+
+#: ucs/admin/modules/system/content.php:176
+#: ucs/admin/modules/system/content.php:208
+#: ucs/admin/modules/system/content.php:212
+msgid "Path (Must be unique)"
+msgstr "Path (Harus unik)"
+
+#: ucs/admin/modules/system/content.php:178
+msgid "Content Description"
+msgstr "Deskripsi Konten"
+
+#: ucs/admin/modules/system/content.php:182
+msgid "You are going to update Content data"
+msgstr "Anda akan mengubah data konten"
+
+#: ucs/admin/modules/system/module_priv_form.inc.php:26
+#: ucs/admin/modules/system/module.php:175
+#: ucs/admin/modules/system/module.php:195
+msgid "Module Name"
+msgstr "Nama Modul"
+
+#: ucs/admin/modules/system/module_priv_form.inc.php:26
+msgid "Read"
+msgstr "Baca"
+
+#: ucs/admin/modules/system/module_priv_form.inc.php:26
+msgid "Write"
+msgstr "Ubah"
+
+#: ucs/admin/modules/system/biblio_indexes.php:50
+msgid "Index table truncated!"
+msgstr "Tabel indeks dipotong!"
+
+#: ucs/admin/modules/system/biblio_indexes.php:52
+msgid "Index table FAILED to truncated, probably because of database query error!"
+msgstr "Tabel Index GAGALuntuk dihapus, kemungkinan terjadi kesalahan dalam queri pada basisdata!"
+
+#: ucs/admin/modules/system/biblio_indexes.php:66
+#, php-format
+msgid "<strong>%d</strong> records (from total of <strong>%d</strong>) re-indexed. Finished in %d minutes %d second(s)"
+msgstr "<strong>%d</strong> rekod (dari total <strong>%d</strong>) yang berhasil di indeks ulang. Selesai dalam %d menit %d detik"
+
+#: ucs/admin/modules/system/biblio_indexes.php:68
+#: ucs/admin/modules/system/biblio_indexes.php:90
+#, php-format
+msgid "<strong>%d</strong> index records failed to indexed. The IDs are: %s"
+msgstr "<strong>%d</strong> rekod indeks gagal untuk di indeks. IDnya adalah: %s"
+
+#: ucs/admin/modules/system/biblio_indexes.php:80
+msgid "Please empty the Index first before re-creating the Index"
+msgstr "Kosongkan Indeks sebelum membuat ulang indeks"
+
+#: ucs/admin/modules/system/biblio_indexes.php:88
+#, php-format
+msgid "<strong>%d</strong> records (from total of <strong>%d</strong>) re-indexed. Finished in %d second(s)"
+msgstr "<strong>%d</strong> rekod (dari total <strong>%d</strong> berhasil di indeks ulang. Diselesaikan dalam %d detik"
+
+#: ucs/admin/modules/system/biblio_indexes.php:100
+msgid "UCS Bibliographic Index"
+msgstr "Indeks Bibliografi UCS"
+
+#: ucs/admin/modules/system/biblio_indexes.php:103
+msgid "Emptying Index"
+msgstr "Kosongkan Indeks"
+
+#: ucs/admin/modules/system/biblio_indexes.php:104
+msgid "Re-create Index"
+msgstr "Buat ulang Indeks"
+
+#: ucs/admin/modules/system/biblio_indexes.php:105
+msgid "Update Index"
+msgstr "Perbaharui indeks"
+
+#: ucs/admin/modules/system/app_user.php:59
+msgid "User Name or Real Name can't be empty"
+msgstr "Nama Lengkap dan Nama Login tidak boleh kosong"
+
+#: ucs/admin/modules/system/app_user.php:62
+msgid "Login username or Real Name is probihited!"
+msgstr "Login Pengguna atau Nama Lengkap tidak bisa digunakan!"
+
+#: ucs/admin/modules/system/app_user.php:65
+msgid "Password confirmation does not match. See if your Caps Lock key is on!"
+msgstr "Password dan Konfirmasinya tidak cocok. Pastikan penggunaan huruf besar dan kecil yang sesuai!"
+
+#: ucs/admin/modules/system/app_user.php:99
+msgid "User Data Successfully Updated"
+msgstr "Data Pengguna Berhasil Diperbaharui"
+
+#: ucs/admin/modules/system/app_user.php:101
+msgid "User Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data Pengguna GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/system/app_user.php:109
+msgid "New User Data Successfully Saved"
+msgstr "Pengguna Baru Berhasil Disimpan"
+
+#: ucs/admin/modules/system/app_user.php:111
+msgid "User Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data Pengguna Baru GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/system/app_user.php:159
+#: ucs/admin/modules/system/submenu.php:33
+msgid "System Users"
+msgstr "Pengguna Aplikasi"
+
+#: ucs/admin/modules/system/app_user.php:159
+msgid "Add New User"
+msgstr "Data Staf Baru"
+
+#: ucs/admin/modules/system/app_user.php:160
+msgid "User List"
+msgstr "Daftar Staf"
+
+#: ucs/admin/modules/system/app_user.php:214
+#: ucs/admin/modules/system/app_user.php:259
+msgid "Login Username"
+msgstr "Login Pengguna"
+
+#: ucs/admin/modules/system/app_user.php:216
+#: ucs/admin/modules/system/app_user.php:258
+#: ucs/admin/modules/system/app_user.php:263
+#: ucs/admin/modules/system/app_user.php:264
+msgid "Real Name"
+msgstr "Nama Pengguna"
+
+#: ucs/admin/modules/system/app_user.php:230
+msgid "Group(s)"
+msgstr "Kelompok"
+
+#: ucs/admin/modules/system/app_user.php:235
+msgid "Confirm New Password"
+msgstr "Konfirmasi Password Baru"
+
+#: ucs/admin/modules/system/app_user.php:239
+msgid "You are going to edit user profile"
+msgstr "Anda akan meng-edit data pengguna"
+
+#: ucs/admin/modules/system/app_user.php:240
+msgid "Leave Password field blank if you don't want to change the password"
+msgstr "Biarkan kotak Password kosong jika tidak ingin mengubahnya"
+
+#: ucs/admin/modules/system/app_user.php:260
+#: ucs/admin/modules/system/app_user.php:265
+msgid "Last Login"
+msgstr "Login terakhir"
+
+#: ucs/admin/modules/system/submenu.php:23
+msgid "System"
+msgstr "Sistem"
+
+#: ucs/admin/modules/system/submenu.php:26
+#: ucs/admin/modules/system/index.php:46
+msgid "System Configuration"
+msgstr "Konfigurasi Sistem"
+
+#: ucs/admin/modules/system/submenu.php:26
+msgid "Configure Global System Preferences"
+msgstr "Konfigurasi Global Aplikasi"
+
+#: ucs/admin/modules/system/submenu.php:31
+msgid "Biblio Indexes"
+msgstr "Indeks Biblio"
+
+#: ucs/admin/modules/system/submenu.php:31
+msgid "Bibliographic Indexes management"
+msgstr "Manajemen Indeks Bibliografi"
+
+#: ucs/admin/modules/system/submenu.php:32
+#: ucs/admin/modules/system/module.php:135
+msgid "Modules"
+msgstr "Modul"
+
+#: ucs/admin/modules/system/submenu.php:32
+msgid "Configure Application Modules"
+msgstr "Konfigurasi Modul Aplikasi"
+
+#: ucs/admin/modules/system/submenu.php:33
+msgid "Manage Application User or Library Staff"
+msgstr "Pengelolaan Data Pengguna Aplikasi/Staf Perpustakaan"
+
+#: ucs/admin/modules/system/submenu.php:34
+msgid "User Group"
+msgstr "Kelompok Pengguna"
+
+#: ucs/admin/modules/system/submenu.php:34
+msgid "Manage Group of Application User"
+msgstr "Pengelolaan Data Kelompok Pengguna Aplikasi"
+
+#: ucs/admin/modules/system/submenu.php:35
+msgid "Nodes Poll"
+msgstr "Kumpulan Node"
+
+#: ucs/admin/modules/system/submenu.php:35
+msgid "View Nodes Poll/Request"
+msgstr "Lihat Penambahan/Permintaan pada Nodes"
+
+#: ucs/admin/modules/system/submenu.php:37
+msgid "System Log"
+msgstr "Log Sistem"
+
+#: ucs/admin/modules/system/submenu.php:37
+msgid "View Application System Log"
+msgstr "Lihat Sistem Log Aplikasi"
+
+#: ucs/admin/modules/system/submenu.php:38
+msgid "Backup Application Database"
+msgstr "Membuat Salinan Pangkalan Data Aplikasi"
+
+#: ucs/admin/modules/system/module.php:47
+msgid "Module name and path can't be empty"
+msgstr "Nama dan path tidak boleh kosong"
+
+#: ucs/admin/modules/system/module.php:70
+msgid "Module Data Successfully Updated"
+msgstr "Data Modul Berhasil Diperbaharui"
+
+#: ucs/admin/modules/system/module.php:72
+msgid "Module Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data Modul GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/system/module.php:83
+msgid "New Module Data Successfully Saved"
+msgstr "Data Modul Baru Berhasil Disimpan"
+
+#: ucs/admin/modules/system/module.php:85
+msgid "Module Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data Modul GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/system/module.php:135
+msgid "Add New Modules"
+msgstr "Data Modul Baru"
+
+#: ucs/admin/modules/system/module.php:136
+msgid "Modules List"
+msgstr "Daftar Modul"
+
+#: ucs/admin/modules/system/module.php:177
+msgid "Module Path"
+msgstr "Modul Path"
+
+#: ucs/admin/modules/system/module.php:179
+#: ucs/admin/modules/system/module.php:196
+msgid "Module Description"
+msgstr "Deskripsi Modul"
+
+#: ucs/admin/modules/system/module.php:183
+msgid "You are going to edit data"
+msgstr "Anda akan meng-edit data modul"
+
+#: ucs/admin/modules/system/index.php:46
+msgid "Modify global application preferences"
+msgstr "Mengatur konfigurasi global aplikasi sesuai kebutuhan"
+
+#: ucs/admin/modules/system/index.php:90
+msgid "Settings saved. Refreshing page"
+msgstr "Konfigurasi telah disimpan. Perbaharui informasi terbaru"
+
+#: ucs/admin/modules/system/index.php:97
+msgid "Save Settings"
+msgstr "Simpan Konfigurasi"
+
+#: ucs/admin/modules/system/index.php:111
+msgid "Library Name"
+msgstr "Nama Perpustakaan"
+
+#: ucs/admin/modules/system/index.php:114
+msgid "Library Subname"
+msgstr "Nama Perpustakaan Tambahan"
+
+#: ucs/admin/modules/system/index.php:128
+msgid "OPAC Template"
+msgstr "Templat OPAC"
+
+#: ucs/admin/modules/system/index.php:132
+msgid "Default App. Language"
+msgstr "Bahasa pengantar"
+
+#: ucs/admin/modules/system/index.php:140
+msgid "Number Of Collections To Show In OPAC Result List"
+msgstr "Jumlah koleksi yang ditampilkan hasil pencarian OPAC"
+
+#: ucs/admin/modules/system/index.php:144
+#: ucs/admin/modules/system/index.php:150
+msgid "Disable"
+msgstr "Tidak mungkin"
+
+#: ucs/admin/modules/system/index.php:145
+#: ucs/admin/modules/system/index.php:151
+msgid "Enable"
+msgstr "Dimungkinkan"
+
+#: ucs/admin/modules/system/index.php:146
+msgid "OPAC XML Detail"
+msgstr "Detail OPAC XML"
+
+#: ucs/admin/modules/system/index.php:152
+msgid "OPAC XML Result"
+msgstr "Hasil OPAC dalam XML"
+
+#: ucs/admin/modules/system/index.php:155
+msgid "Session Login Timeout"
+msgstr "Timeout Sesi Login"
+
+#: ucs/admin/modules/system/nodes_poll.php:46
+msgid "Nodes poll cleared!"
+msgstr "Kumpulan nodes sudah dihapus!"
+
+#: ucs/admin/modules/system/nodes_poll.php:55
+msgid "NODES POLL"
+msgstr "KUMPULAN NODE"
+
+#: ucs/admin/modules/system/nodes_poll.php:57
+msgid "Are you SURE to completely clear nodes poll!"
+msgstr "Apakah anda YAKIN untuk menghapus seluruh Jaringan Simpul"
+
+#: ucs/admin/modules/system/nodes_poll.php:57
+msgid "CLEAR ALL NODES POLL"
+msgstr "HAPUS JARINGAN SIMPUL"
+
+#: ucs/admin/modules/system/nodes_poll.php:87
+msgid "IP Address"
+msgstr "Alamat IP"
+
+#: ucs/admin/modules/system/nodes_poll.php:88
+msgid "Request Start"
+msgstr "Penambahan dimulai"
+
+#: ucs/admin/modules/system/nodes_poll.php:89
+msgid "Request End"
+msgstr "Penambahan selesai"
+
+#: ucs/admin/modules/system/nodes_poll.php:90
+msgid "Status"
+msgstr "Status"
+
+#: ucs/admin/modules/system/sys_log.php:58
+msgid "System Log data completely cleared!"
+msgstr "Data Log Sistem sepenuhnya terhapus!"
+
+#: ucs/admin/modules/system/sys_log.php:69
+msgid "Are you SURE to completely clear system log data? This action cannot be undo!"
+msgstr "Apakah anda YAKIN untuk menghapus seluruh data Log Sistem? Aksi ini tidak bisa di-undo"
+
+#: ucs/admin/modules/system/sys_log.php:69
+msgid "CLEAR LOGS"
+msgstr "HAPUS LOG"
+
+#: ucs/admin/modules/system/sys_log.php:70
+msgid "Save Logs record to file?"
+msgstr "Simpan Rekod Log ke Berkas?"
+
+#: ucs/admin/modules/system/sys_log.php:70
+msgid "Save Logs To File"
+msgstr "Simpan Data Log ke Berkas"
+
+#: ucs/admin/modules/system/sys_log.php:94
+msgid "Time"
+msgstr "Waktu"
+
+#: ucs/admin/modules/system/sys_log.php:96
+msgid "Message"
+msgstr "Catatan Pesan"
+
+#: ucs/admin/modules/system/user_group.php:46
+msgid "Group name can't be empty"
+msgstr "Nama Kelompok tidak boleh kosong"
+
+#: ucs/admin/modules/system/user_group.php:81
+msgid "Group Data Successfully Updated"
+msgstr "Data Kelompok Berhasil Diperbaharui"
+
+#: ucs/admin/modules/system/user_group.php:83
+msgid "Group Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data Kelompok GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/system/user_group.php:109
+msgid "New Group Data Successfully Saved"
+msgstr "Kelompok Baru Berhasil Disimpan"
+
+#: ucs/admin/modules/system/user_group.php:111
+msgid "Group Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data Kelompok GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: ucs/admin/modules/system/user_group.php:158
+msgid "Add New Group"
+msgstr "Data Kelompok Baru"
+
+#: ucs/admin/modules/system/user_group.php:159
+msgid "Group List"
+msgstr "Daftar Kelompok"
+
+#: ucs/admin/modules/system/user_group.php:198
+#: ucs/admin/modules/system/user_group.php:225
+msgid "Group Name"
+msgstr "Nama Kelompok"
+
+#: ucs/admin/modules/system/user_group.php:209
+msgid "Privileges"
+msgstr "Hak Istimewa"
+
+#: ucs/admin/modules/system/user_group.php:214
+msgid "You are going to edit Group data"
+msgstr "Anda akan meng-edit data kelompok"
+
+#: ucs/admin/default/home.php:30
+msgid "<strong>PHP GD</strong> extension is not installed. Please install it or application won't be able to create image thumbnail."
+msgstr "Ekstensi <strong>PHP GD</strong> belum terpasang. Pastikan PHP GD terpasang atau aplikasi tidak dapat membuat thumbnail"
+
+#: ucs/admin/default/home.php:34
+msgid "The PATH for <strong>mysqldump</strong> program is not right! Please check configuration file or you won't be able to do any database backups."
+msgstr "Letak program <strong>mysqldump</strong> tidak ditemukan! Periksa kembali file konfigurasi aplikasi atau anda tidak dapat melakukan backup."
+
+#: ucs/admin/default/session_check.inc.php:56
+msgid "Your Login Session has already timeout!"
+msgstr "Sesi login anda telah habis. Harap lakukan login kembali"
+
+#: ucs/admin/default/submenu.php:21
+msgid "Panel"
+msgstr "Panel"
+
+#: ucs/admin/default/submenu.php:22
+msgid "Change User Profiles"
+msgstr "Ubah Profil User"
+
+#: ucs/admin/default/submenu.php:22
+msgid "Change Current User Profiles and Password"
+msgstr "Ubah Profil dan Password User Aktif"
+
+#: ucs/admin/default/submenu.php:24
+msgid "Bibliography List"
+msgstr "Daftar Bibliografi"
+
+#: ucs/admin/default/submenu.php:24
+msgid "View existing Union Server Catalog data"
+msgstr "Lihat Union Server Catalog yang tercatat"
+
+#: template/terrafirma/detail_template.php:80
+msgid "Availability"
+msgstr "Ketersediaan"
+
+#: template/terrafirma/index_template.inc.php:40
+msgid "Member Area"
+msgstr "Daerah Khusus Anggota"
+
+#: template/terrafirma/index_template.inc.php:41
+msgid "Librarian LOGIN"
+msgstr "LOGIN Pustakawan"
+
+#: template/terrafirma/index_template.inc.php:175
+msgid "Collection Type"
+msgstr "Tipe Koleksi"
+
+#: template/kpk3/index_template.inc.php:88
+msgid "Analytical Entry"
+msgstr "Entri Analitik"
+
+#: template/kpk3/index_template.inc.php:130
+msgid "Simple Search"
+msgstr "Pencarian Sederhana"
+
+#: template/default_v2/detail_template.php:85
+msgid "Custom Field 1"
+msgstr "Ruas Kustom 1"
+
+#: template/default_v2/detail_template.php:89
+msgid "Custom Field 2"
+msgstr "Ruas Kustom 2"
+
+#: simbio2/simbio_GUI/form_maker/simbio_form_table.inc.php:105
+#: simbio2/simbio_GUI/form_maker/simbio_form_table_AJAX.inc.php:98
+msgid "Delete Record"
+msgstr "Hapus Rekod"
+
+#: simbio2/simbio_GUI/form_maker/simbio_form_table.inc.php:106
+#: simbio2/simbio_GUI/form_maker/simbio_form_table_AJAX.inc.php:99
+msgid "Cancel"
+msgstr "Batal"
+
+#: simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:267
+msgid "Date"
+msgstr "Tanggal"
+
+#: simbio2/simbio_GUI/table/simbio_table.inc.php:223
+msgid "No Data"
+msgstr "Tidak Ada Data"
+
+#: simbio2/simbio_GUI/paging/simbio_paging.inc.php:118
+msgid "First Page"
+msgstr "Hal. Pertama"
+
+#: simbio2/simbio_GUI/paging/simbio_paging.inc.php:120
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: simbio2/simbio_GUI/paging/simbio_paging.inc.php:141
+msgid "Next"
+msgstr "Berikutnya"
+
+#: simbio2/simbio_GUI/paging/simbio_paging.inc.php:149
+msgid "Last Page"
+msgstr "Hal. Akhir"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:88
+msgid "DELETE"
+msgstr "DELETE"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:89
+msgid "EDIT"
+msgstr "EDIT"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:104
+msgid "Are You Sure Want to DELETE Selected Data?"
+msgstr "Anda Yakin Akan MENGHAPUS Data Terpilih?"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:108
+msgid "Delete Selected Data"
+msgstr "Hapus Data Terpilih"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:136
+msgid "ascendingly"
+msgstr "menaik"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:145
+msgid "descendingly"
+msgstr "menurun"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:214
+msgid "Order list by"
+msgstr "Urut daftar berdasar"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:371
+msgid "Check All"
+msgstr "Cek Semua"
+
+#: simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:372
+msgid "Uncheck All"
+msgstr "Hilangkan Cek"
+
+#: admin/logout.php:36
+msgid "You Have Been Logged Out From Library Automation System"
+msgstr "Anda telah keluar dari sistem automasi perpustakaan"
+
+#: admin/index.php:63
+msgid "Welcome To The Library Automation System, you are currently logged in as"
+msgstr "Selamat datang di automasi perpustakaan, saat ini anda login sebagai"
+
+#: admin/modules/membership/member_type.php:50
+msgid "Member Type Name can't be empty"
+msgstr "Tipe Keanggotaan Tidak Boleh Kosong"
+
+#: admin/modules/membership/member_type.php:76
+msgid "Member Type Successfully Updated"
+msgstr "Tipe Keanggotaan Berhasil Diperbaharui"
+
+#: admin/modules/membership/member_type.php:81
+#: admin/modules/membership/member_type.php:89
+msgid "Member Type Data FAILED to Save/Update. Please Contact System Administrator"
+msgstr "Data Tipe Keanggotaan GAGAL Disimpan/Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: admin/modules/membership/member_type.php:87
+msgid "New Member Type Successfully Saved"
+msgstr "Tipe Keanggotaan Baru Berhasil Disimpan"
+
+#: admin/modules/membership/member_type.php:130
+msgid "Add New Member Type"
+msgstr "Tambah Tipe Anggota Baru"
+
+#: admin/modules/membership/member_type.php:131
+msgid "Member Type List"
+msgstr "Daftar Tipe Anggota"
+
+#: admin/modules/membership/member_type.php:173
+msgid "Member Type Name"
+msgstr "Tipe Keanggotaan"
+
+#: admin/modules/membership/member_type.php:175
+#: admin/modules/membership/member_type.php:209
+#: admin/modules/membership/member_type.php:215
+msgid "Loan Limit"
+msgstr "Jumlah Pinjaman"
+
+#: admin/modules/membership/member_type.php:177
+msgid "Loan Periode (In Days)"
+msgstr "Lama Peminjaman (Dalam Hari)"
+
+#: admin/modules/membership/member_type.php:181
+msgid "Reserve"
+msgstr "Reservasi"
+
+#: admin/modules/membership/member_type.php:183
+msgid "Reserve Limit"
+msgstr "Jumlah Reservasi"
+
+#: admin/modules/membership/member_type.php:185
+#: admin/modules/membership/member_type.php:210
+#: admin/modules/membership/member_type.php:216
+msgid "Membership Periode (In Days)"
+msgstr "Masa Keanggotaan (Dalam Hari)"
+
+#: admin/modules/membership/member_type.php:187
+#: admin/modules/membership/member_type.php:211
+#: admin/modules/membership/member_type.php:217
+msgid "Reborrow Limit"
+msgstr "Kali Perpanjangan"
+
+#: admin/modules/membership/member_type.php:189
+msgid "Fine Each Day"
+msgstr "Denda Per Hari"
+
+#: admin/modules/membership/member_type.php:191
+msgid "Overdue Grace Periode"
+msgstr "Toleransi Keterlambatan"
+
+#: admin/modules/membership/member_type.php:195
+#: admin/modules/membership/index.php:442
+msgid "You are going to edit member data"
+msgstr "Anda akan meng-edit data anggota"
+
+#: admin/modules/membership/member_type.php:208
+#: admin/modules/membership/member_type.php:214
+#: admin/modules/membership/index.php:370
+#: admin/modules/membership/index.php:466
+#: admin/modules/membership/index.php:472
+#: admin/modules/membership/member_card_generator.php:172
+#: admin/modules/membership/member_card_generator.php:229
+msgid "Membership Type"
+msgstr "Tipe Keanggotaan"
+
+#: admin/modules/membership/export.php:105
+msgid "There is no record in membership database yet, Export FAILED!"
+msgstr "Tabel keanggotaan dalam pangkalan data belum memiliki rekod. Ekspor GAGAL!"
+
+#: admin/modules/membership/export.php:115
+msgid "Export member(s) data to CSV file"
+msgstr "Fasilitas Ekspor data anggota dalam berkas CSV"
+
+#: admin/modules/membership/submenu.php:23
+#: admin/modules/membership/index.php:278
+msgid "Membership"
+msgstr "Keanggotaan"
+
+#: admin/modules/membership/submenu.php:24
+msgid "View Member List"
+msgstr "Lihat Daftar Anggota"
+
+#: admin/modules/membership/submenu.php:24
+msgid "View Library Member List"
+msgstr "Lihat Daftar Anggota Perpustakaan"
+
+#: admin/modules/membership/submenu.php:25
+#: admin/modules/membership/index.php:278
+msgid "Add New Member"
+msgstr "Tambah Anggota"
+
+#: admin/modules/membership/submenu.php:25
+msgid "Add New Library Member Data"
+msgstr "Tambah Data Anggota Perpustakaan"
+
+#: admin/modules/membership/submenu.php:26
+msgid "View and modify member type"
+msgstr "Lihat dan modifikasi tipe anggota"
+
+#: admin/modules/membership/submenu.php:28
+#: admin/modules/membership/member_card_generator.php:192
+#: admin/modules/membership/member_card_generator.php:200
+msgid "Member Card Printing"
+msgstr "Kartu Anggota"
+
+#: admin/modules/membership/submenu.php:28
+msgid "Print Member Card"
+msgstr "Cetak Kartu Anggota"
+
+#: admin/modules/membership/submenu.php:29
+msgid "Import Data"
+msgstr "Impor Data"
+
+#: admin/modules/membership/submenu.php:29
+msgid "Import Members Data From CSV File"
+msgstr "Impor Data Anggota dari file CSV"
+
+#: admin/modules/membership/submenu.php:30
+msgid "Export Members Data To CSV File"
+msgstr "Ekspor Data Anggota ke CSV file"
+
+#: admin/modules/membership/index.php:58
+msgid "Member ID and Name can't be empty"
+msgstr "ID dan Nama Anggota tidak boleh kosong"
+
+#: admin/modules/membership/index.php:156
+msgid "Member Data Successfully Updated"
+msgstr "Data Anggota Berhasil diperbarui"
+
+#: admin/modules/membership/index.php:166
+#: admin/modules/membership/index.php:190
+msgid "Image FAILED to upload"
+msgstr "Citra/Berkas Gambar GAGAL Diunggah"
+
+#: admin/modules/membership/index.php:172
+#: admin/modules/membership/index.php:196
+msgid "Member Data FAILED to Save/Update. Please Contact System Administrator"
+msgstr "Data anggota gagal di-simpan/update. Hubungi admin sistem untuk pemecahannya"
+
+#: admin/modules/membership/index.php:180
+msgid "New Member Data Successfully Saved"
+msgstr "Data Anggota Baru Berhasil Disimpan"
+
+#: admin/modules/membership/index.php:259
+msgid "Below member data can't be deleted because still have unreturned item(s)"
+msgstr "Data anggota dibawah tidak bisa dihapus karena masih memiliki koleksi yang belum dikembalikan"
+
+#: admin/modules/membership/index.php:279
+msgid "Member List"
+msgstr "Daftar Anggota"
+
+#: admin/modules/membership/index.php:280
+msgid "View Expired Member"
+msgstr "Lihat Anggota yang Expired"
+
+#: admin/modules/membership/index.php:282
+msgid "Member Search"
+msgstr "Pencarian Anggota"
+
+#: admin/modules/membership/index.php:329
+msgid "Extend"
+msgstr "Perpanjang"
+
+#: admin/modules/membership/index.php:330
+msgid "Extend Membership"
+msgstr "Perpanjang Keanggotaan"
+
+#: admin/modules/membership/index.php:331
+msgid "Membership Already Expired"
+msgstr "Masa Keanggotaan sudah habis"
+
+#: admin/modules/membership/index.php:347
+msgid "Birth Date"
+msgstr "Tanggal Lahir"
+
+#: admin/modules/membership/index.php:349
+msgid "Member Since"
+msgstr "Anggota Sejak"
+
+#: admin/modules/membership/index.php:356
+msgid "Auto Set"
+msgstr "Set Otomatis"
+
+#: admin/modules/membership/index.php:372
+msgid "Male"
+msgstr "Laki-laki"
+
+#: admin/modules/membership/index.php:373
+msgid "Female"
+msgstr "Perempuan"
+
+#: admin/modules/membership/index.php:374
+msgid "Gender"
+msgstr "Jenis Kelamin"
+
+#: admin/modules/membership/index.php:378
+msgid "Postal Code"
+msgstr "Kode Pos"
+
+#: admin/modules/membership/index.php:384
+msgid "Personal ID Number"
+msgstr "Nomor ID Personal"
+
+#: admin/modules/membership/index.php:386
+msgid "Notes"
+msgstr "Catatan"
+
+#: admin/modules/membership/index.php:420
+msgid "Pending Membership"
+msgstr "Tunda Keanggotaan"
+
+#: admin/modules/membership/index.php:420
+msgid "Yes"
+msgstr "Ya"
+
+#: admin/modules/membership/index.php:425
+#: admin/modules/membership/index.php:429
+#: admin/modules/membership/member_card_generator.php:209
+msgid "Maximum"
+msgstr "Maksimum"
+
+#: admin/modules/membership/index.php:426
+#: admin/modules/membership/index.php:430
+msgid "Photo"
+msgstr "Foto"
+
+#: admin/modules/membership/index.php:433
+#: admin/modules/membership/index.php:467
+#: admin/modules/membership/index.php:473
+msgid "E-mail"
+msgstr "E-mail"
+
+#: admin/modules/membership/index.php:502
+msgid "Expired Member List"
+msgstr "Daftar Anggota yang Expired"
+
+#: admin/modules/membership/index.php:503
+msgid "Extend Selected Member(s)"
+msgstr "Perpanjang Anggota terpilih"
+
+#: admin/modules/membership/index.php:503
+msgid "Are you sure to EXTEND membership for selected members?"
+msgstr "Anda yakin ingin memperpanjang keanggotaan untuk anggota terpilih?"
+
+#: admin/modules/membership/index.php:505
+msgid "members extended!"
+msgstr "Keanggotaan berhasil diperpanjang!"
+
+#: admin/modules/membership/index.php:509
+#: admin/modules/membership/member_card_generator.php:262
+msgid "Found"
+msgstr "Ditemukan"
+
+#: admin/modules/membership/index.php:509
+#: admin/modules/membership/member_card_generator.php:262
+msgid "from your search with keyword"
+msgstr "dari kata kunci"
+
+#: admin/modules/membership/member_card_generator.php:51
+msgid "Print queue cleared!"
+msgstr "Antrian pencetakan dihapus!"
+
+#: admin/modules/membership/member_card_generator.php:94
+msgid "Selected items NOT ADDED to print queue. Only {max_print} can be printed at once"
+msgstr "Eksemplar terpilih TIDAK TERMASUK dalam antrian cetak. Hanya {max_print} dapat dicetak sekaligus"
+
+#: admin/modules/membership/member_card_generator.php:99
+msgid "Selected items added to print queue"
+msgstr "Eksemplar terpilih ditambahkan dalam antrian pencetakan"
+
+#: admin/modules/membership/member_card_generator.php:108
+#: admin/modules/membership/member_card_generator.php:112
+msgid "There is no data to print!"
+msgstr "Tidak ada data untuk dicetak!"
+
+#: admin/modules/membership/member_card_generator.php:200
+msgid "Print Member Cards for Selected Data"
+msgstr "Cetak Kartu Anggota dari Data Terpilih"
+
+#: admin/modules/membership/member_card_generator.php:201
+msgid "Clear Print Queue"
+msgstr "Batalkan Antrian Pencetakan"
+
+#: admin/modules/membership/member_card_generator.php:209
+msgid "records can be printed at once. Currently there is"
+msgstr "Rekod bisa dicetak pada saat bersamaan. Saat ini terdapat"
+
+#: admin/modules/membership/member_card_generator.php:213
+msgid "in queue waiting to be printed."
+msgstr "antrian menunggu untuk dicetak."
+
+#: admin/modules/membership/member_card_generator.php:254
+msgid "Add To Print Queue"
+msgstr "Tambahkan Dalam Antrian"
+
+#: admin/modules/membership/member_card_generator.php:255
+msgid "Add to print queue?"
+msgstr "Cetak dalam antrian pencetakan?"
+
+#: admin/modules/membership/import.php:49
+#: admin/modules/bibliography/item_import.php:48
+msgid "Please select the file to import!"
+msgstr "Tentukan data yang akan diimpor!"
+
+#: admin/modules/membership/import.php:70
+#: admin/modules/bibliography/item_import.php:72
+msgid "Upload failed! File type not allowed or the size is more than"
+msgstr "GAGAL menunggah! Jenis data tidak sesuai atau ukuran lebih dari"
+
+#: admin/modules/membership/import.php:161
+msgid "records inserted successfully to members database, from record"
+msgstr "rekod berhasil disisipkan dalam data anggota dari total rekod"
+
+#: admin/modules/membership/import.php:171
+msgid "Import for members data from CSV file"
+msgstr "Fasilitas Impor data anggota dari berkas CSV"
+
+#: admin/modules/membership/import.php:179
+#: admin/modules/bibliography/item_import.php:193
+msgid "Import Now"
+msgstr "Impor Sekarang"
+
+#: admin/modules/membership/import.php:190
+#: admin/modules/bibliography/item_import.php:203
+msgid "File To Import"
+msgstr "Data untuk di impor"
+
+#: admin/modules/bibliography/iframe_attach.php:70
+msgid "Attachment removed!"
+msgstr "Lampiran dihapus!"
+
+#: admin/modules/bibliography/iframe_attach.php:115
+msgid "File Attachments"
+msgstr "Lampiran"
+
+#: admin/modules/bibliography/item_import.php:184
+msgid "ITEM IMPORT TOOL"
+msgstr "Fasilitas Import"
+
+#: admin/modules/bibliography/item_import.php:186
+msgid "Import for item data from CSV file"
+msgstr "Impor data eksemplar dari data CSV"
+
+#: admin/modules/bibliography/checkout_item.php:46
+#: admin/modules/bibliography/submenu.php:28
+msgid "Checkout Items"
+msgstr "Daftar Koleksi Keluar"
+
+#: admin/modules/bibliography/item_export.php:126
+msgid "There is no record in item database yet, Export FAILED!"
+msgstr "Tidak  ada rekod dalam basisdata eksemplar, Ekspor GAGAL!"
+
+#: admin/modules/bibliography/item_export.php:135
+msgid "ITEM EXPORT TOOL"
+msgstr "Fasilitas Impor"
+
+#: admin/modules/bibliography/item_export.php:137
+msgid "Export item data to CSV file"
+msgstr "Ekspor data eksemplar ke dalam berkas CSV"
+
+#: admin/modules/bibliography/submenu.php:25
+msgid "Add New Bibliography"
+msgstr "Tambah Katalog Baru"
+
+#: admin/modules/bibliography/submenu.php:25
+msgid "Add New Bibliographic Data/Catalog"
+msgstr "Menambahkan Data Katalog Baru"
+
+#: admin/modules/bibliography/submenu.php:26
+msgid "Items"
+msgstr "Eksemplar"
+
+#: admin/modules/bibliography/submenu.php:27
+msgid "Item List"
+msgstr "Daftar Eksemplar"
+
+#: admin/modules/bibliography/submenu.php:27
+msgid "Show List of Library Items"
+msgstr "Daftar Eksemplar yang dimiliki Perpustakaan"
+
+#: admin/modules/bibliography/submenu.php:28
+msgid "Show List of Checkout Items"
+msgstr "Daftar Eksemplar Yang Sedang Dipinjam"
+
+#: admin/modules/bibliography/submenu.php:30
+msgid "Z3950 Service"
+msgstr "Layanan Z3950"
+
+#: admin/modules/bibliography/submenu.php:30
+msgid "Grab Bibliographic Data from Z3950 Web Services"
+msgstr "Ambil Data Bibliografi/Katalog dari layanan Z3950"
+
+#: admin/modules/bibliography/submenu.php:31
+msgid "P2P Service"
+msgstr "Layanan P2P"
+
+#: admin/modules/bibliography/submenu.php:31
+msgid "Grab Bibliographic Data from Other SLiMS Web Services"
+msgstr "Ambil Data Bibliografi dari Layanan Situs SLiMS Lainnya"
+
+#: admin/modules/bibliography/submenu.php:32
+msgid "Labels Printing"
+msgstr "Pencetakan Label"
+
+#: admin/modules/bibliography/submenu.php:32
+msgid "Print Document Labels"
+msgstr "Pencetakan Label Dokumen"
+
+#: admin/modules/bibliography/submenu.php:33
+msgid "Item Barcodes Printing"
+msgstr "Cetak Barcode Koleksi"
+
+#: admin/modules/bibliography/submenu.php:33
+msgid "Print Item Barcodes"
+msgstr "Cetak Barcode Koleksi"
+
+#: admin/modules/bibliography/submenu.php:34
+msgid "Import Data to Bibliographic Database from CSV file"
+msgstr "Impor Data Bibliografi dari data CSV"
+
+#: admin/modules/bibliography/submenu.php:36
+msgid "Item Import"
+msgstr "Impor Item"
+
+#: admin/modules/bibliography/submenu.php:36
+msgid "Import Data to Item/Copies database from CSV file"
+msgstr "Impor Data kedalam Eksemplar/Duplikat basisdata dari data CSV"
+
+#: admin/modules/bibliography/submenu.php:37
+msgid "Item Export"
+msgstr "Ekspor Item"
+
+#: admin/modules/bibliography/submenu.php:37
+msgid "Export Item/Copies data To CSV format"
+msgstr "Ekspor Item/Duplikat data kedalam Format CSV"
+
+#: admin/modules/bibliography/p2p.php:205
+#, php-format
+msgid "Sorry, no result found from %s OR maybe XML result and detail disabled."
+msgstr "Maaf, dari %s tidak ada hasil ATAU kemungkinan hasil dan detil XML dinonaktifkan."
+
+#: admin/modules/bibliography/p2p.php:222
+msgid "* Please make sure you have a working Internet connection."
+msgstr "* Pastikan anda memiliki koneksi internet"
+
+#: admin/modules/bibliography/index.php:249
+msgid "New Bibliography Data Successfully Saved"
+msgstr "Data baru bibliografi berhasil disimpan"
+
+#: admin/modules/bibliography/index.php:263
+msgid "Bibliography Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data bibliografi GAGAL disimpan. Hubungi System Administrator untuk pemecahan"
+
+#: admin/modules/bibliography/index.php:317
+msgid "Below data can not be deleted:"
+msgstr "Daftar data berikut tidak bisa dihapus :"
+
+#: admin/modules/bibliography/index.php:348
+msgid "Upload Selected Bibliographic data to Union Catalog Server*"
+msgstr "Unggah Data Bibliografi Terpilih ke Katalog Induk"
+
+#: admin/modules/bibliography/index.php:426
+#: admin/modules/bibliography/iframe_item_list.php:110
+msgid "Items/Copies"
+msgstr "Eksemplar/Kopi"
+
+#: admin/modules/bibliography/index.php:426
+msgid "Add New Items"
+msgstr "Tambah Data Eksemplar"
+
+#: admin/modules/bibliography/index.php:515
+msgid "Add Attachment"
+msgstr "Tambah Lampiran"
+
+#: admin/modules/bibliography/index.php:555
+msgid "Don't Promote"
+msgstr "Jangan Promosikan"
+
+#: admin/modules/bibliography/index.php:556
+msgid "Promote"
+msgstr "Promosikan"
+
+#: admin/modules/bibliography/index.php:557
+msgid "Promote To Homepage"
+msgstr "Promosikan Ke Beranda"
+
+#: admin/modules/bibliography/index.php:634
+#: admin/modules/bibliography/index.php:640
+#: admin/modules/bibliography/index.php:694
+#: admin/modules/bibliography/index.php:700
+#: admin/modules/stock_take/st_report.php:76
+#: admin/modules/stock_take/st_report.php:80
+msgid "None"
+msgstr "Tidak Ada"
+
+#: admin/modules/bibliography/index.php:634
+#: admin/modules/bibliography/index.php:640
+#: admin/modules/bibliography/index.php:694
+#: admin/modules/bibliography/index.php:700
+msgid "Copies"
+msgstr "Kopi"
+
+#: admin/modules/bibliography/item.php:56
+msgid "Item Code can't be empty!"
+msgstr "Kode Eksemplar tidak boleh kosong!"
+
+#: admin/modules/bibliography/item.php:103
+msgid "Item Data Successfully Updated"
+msgstr "Data Eksemplar berhasil diperbaharui"
+
+#: admin/modules/bibliography/item.php:111
+#: admin/modules/bibliography/item.php:127
+msgid "Item Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data Eksemplar GAGAL disimpan. Mohon hubungi Administrator Sistem"
+
+#: admin/modules/bibliography/item.php:120
+msgid "New Item Data Successfully Saved"
+msgstr "Data Eksemplar baru berhasil disimpan"
+
+#: admin/modules/bibliography/item.php:174
+#: admin/modules/bibliography/iframe_item_list.php:73
+msgid "Item data can not be deleted because still on hold by members"
+msgstr "Data Eksemplar tidak bisa dihapus karena masih dipinjam anggota"
+
+#: admin/modules/bibliography/item.php:180
+#: admin/modules/bibliography/iframe_item_list.php:79
+msgid "Item succesfully removed!"
+msgstr "Eksemplar berhasil hapus!"
+
+#: admin/modules/bibliography/item.php:183
+#: admin/modules/bibliography/iframe_item_list.php:84
+msgid "Item FAILED to removed!"
+msgstr "Eksemplar GAGAL hapus!"
+
+#: admin/modules/bibliography/item.php:268
+msgid "Edit Biblographic data"
+msgstr "Sunting Data Bibliografi"
+
+#: admin/modules/bibliography/item.php:280
+msgid "Inventory Code"
+msgstr "Kode Inventaris"
+
+#: admin/modules/bibliography/item.php:290
+msgid "Shelf Location"
+msgstr "Lokasi Rak"
+
+#: admin/modules/bibliography/item.php:306
+msgid "Item Status"
+msgstr "Status Eksemplar"
+
+#: admin/modules/bibliography/item.php:308
+msgid "Order Number"
+msgstr "No. Pemesanan"
+
+#: admin/modules/bibliography/item.php:310
+msgid "Order Date"
+msgstr "Tanggal Pemesanan"
+
+#: admin/modules/bibliography/item.php:312
+msgid "Receiving Date"
+msgstr "Tanggal Penerimaan"
+
+#: admin/modules/bibliography/item.php:322
+msgid "Buy"
+msgstr "Beli"
+
+#: admin/modules/bibliography/item.php:323
+msgid "Prize/Grant"
+msgstr "Hadiah/Hibah"
+
+#: admin/modules/bibliography/item.php:324
+msgid "Source"
+msgstr "Sumber Perolehan"
+
+#: admin/modules/bibliography/item.php:326
+msgid "Invoice"
+msgstr "Faktur"
+
+#: admin/modules/bibliography/item.php:328
+msgid "Invoice Date"
+msgstr "Tanggal Faktur"
+
+#: admin/modules/bibliography/item.php:332
+msgid "Price"
+msgstr "Harga"
+
+#: admin/modules/bibliography/item.php:336
+msgid "You are going to edit Item data"
+msgstr "Anda akan memperbaharui data Eksemplar"
+
+#: admin/modules/bibliography/dl_print.php:208
+msgid "Print Labels for Selected Data"
+msgstr "Cetak Data Terpilih"
+
+#: admin/modules/bibliography/ucs_upload.php:31
+msgid "UCS is not enabled! Change global system configuration to enable UCS"
+msgstr "UCS tidak aktif! Ubah konfigurasi sistem untuk mengaktifkan UCS"
+
+#: admin/modules/bibliography/import.php:218
+msgid "IMPORT TOOL"
+msgstr "FASILITAS IMPORT"
+
+#: admin/modules/bibliography/import.php:220
+msgid "Import for bibliographics data from CSV file. For guide on CVS fields order and format please refer to documentation or visit <a href=\"http://senayan.diknas.go.id\" target=\"_blank\">Official Website</a>"
+msgstr "Impor data bibiliogrfi dari berkas CSV. Lihat panduan tentang format penulisan dan urutan ruas dalam berkas CSV atau kunjungi <a href=\"http://slims.web.id\" target=\"_blank\">Situs Resmi</a>"
+
+#: admin/modules/bibliography/item_barcode_generator.php:202
+msgid "Print Barcodes for Selected Data"
+msgstr "Cetak Data Terpilih"
+
+#: admin/modules/stock_take/st_report.php:49
+#: admin/modules/stock_take/st_upload.php:43
+msgid "NO stock taking proccess initialized yet!"
+msgstr "BELUM ADA proses inventarisasi koleksi yang telah diinisialisasi!"
+
+#: admin/modules/stock_take/st_report.php:58
+msgid "CURRENT STOCK TAKE REPORT"
+msgstr "Laporan Inventarisasi Koleksi"
+
+#: admin/modules/stock_take/st_report.php:61
+msgid "Download Report"
+msgstr "Unduh Laporan"
+
+#: admin/modules/stock_take/st_report.php:71
+msgid "Stock Take Name"
+msgstr "Nama/Kode Inventariasi"
+
+#: admin/modules/stock_take/st_report.php:72
+msgid "Total Item Stock Taked"
+msgstr "Jumlah Inventarisasi Total"
+
+#: admin/modules/stock_take/st_report.php:74
+#: admin/modules/stock_take/st_report.php:75
+#: admin/modules/stock_take/st_report.php:76
+msgid "Total Item Lost"
+msgstr "Jumlah Total Koleksi Hilang"
+
+#: admin/modules/stock_take/st_report.php:80
+#: admin/modules/stock_take/st_report.php:82
+msgid "Total Item On Loan"
+msgstr "Jumlah Total Koleksi Dipinjam"
+
+#: admin/modules/stock_take/st_report.php:88
+msgid "Total Checked/Scanned Items"
+msgstr "Total Checked/Scanned Items"
+
+#: admin/modules/stock_take/st_report.php:90
+#: admin/modules/stock_take/st_report.php:95
+#: admin/modules/stock_take/st_report.php:100
+msgid "Stock Take Participants"
+msgstr "Pelaksana Inventarisasi"
+
+#: admin/modules/stock_take/st_report.php:95
+msgid "items already checked"
+msgstr "item telah dicek"
+
+#: admin/modules/stock_take/st_report.php:102
+msgid "Start Date"
+msgstr "Tgl Mulai"
+
+#: admin/modules/stock_take/st_report.php:104
+msgid "End Date"
+msgstr "Tgl Selesai"
+
+#: admin/modules/stock_take/st_report.php:125
+#: admin/modules/stock_take/st_report.php:163
+msgid "Lost Items"
+msgstr "Koleksi Hilang"
+
+#: admin/modules/stock_take/st_report.php:126
+#: admin/modules/stock_take/st_report.php:164
+msgid "Existing Items"
+msgstr "Item yang Tersedia"
+
+#: admin/modules/stock_take/st_report.php:127
+#: admin/modules/stock_take/st_report.php:165
+msgid "On Loan Items"
+msgstr "Koleksi Terpinjam"
+
+#: admin/modules/stock_take/st_report.php:130
+msgid " classes"
+msgstr " kelas"
+
+#: admin/modules/stock_take/st_upload.php:102
+msgid "Succesfully upload stock take file"
+msgstr "Unggah berkas inventarisasi berhasil"
+
+#: admin/modules/stock_take/st_upload.php:102
+msgid " item codes scanned!"
+msgstr " kode item terpindai!"
+
+#: admin/modules/stock_take/st_upload.php:119
+msgid "STOCK TAKE UPLOAD - Upload a plain text file (.txt) containing list of Item Code to stock take. Each Item Code separated by line."
+msgstr "STOCK TAKE UPLOAD - Upload a plain text file (.txt) containing list of Item Code to stock take. Each Item Code separated by line."
+
+#: admin/modules/stock_take/st_upload.php:121
+msgid " File"
+msgstr " Berkas"
+
+#: admin/modules/stock_take/st_upload.php:122
+msgid "Upload File"
+msgstr "Unggah Berkas"
+
+#: admin/modules/stock_take/lost_item_list.php:49
+#: admin/modules/stock_take/submenu.php:31
+msgid "Current Lost Item"
+msgstr "Koleksi Hilang"
+
+#: admin/modules/stock_take/lost_item_list.php:49
+msgid "Report Filter"
+msgstr "Filter Laporan"
+
+#: admin/modules/stock_take/lost_item_list.php:53
+msgid "Title/ISBN"
+msgstr "Judul/ISBN"
+
+#: admin/modules/stock_take/lost_item_list.php:82
+#: admin/modules/stock_take/lost_item_list.php:96
+#: admin/modules/stock_take/lost_item_list.php:110
+msgid "ALL"
+msgstr "SEMUA"
+
+#: admin/modules/stock_take/lost_item_list.php:119
+msgid "Apply Filter"
+msgstr "Terapkan Filter"
+
+#: admin/modules/stock_take/lost_item_list.php:120
+msgid "Show More Filter Options"
+msgstr "Tunjukan Filter Lebih Banyak"
+
+#: admin/modules/stock_take/submenu.php:23
+msgid "Stock Take"
+msgstr "Inventarisasi Koleksi"
+
+#: admin/modules/stock_take/submenu.php:24
+msgid "Stock Take History"
+msgstr "Rekaman Inventarisasi"
+
+#: admin/modules/stock_take/submenu.php:24
+msgid "View Stock Take History"
+msgstr "Rekaman Inventarisasi Koleksi"
+
+#: admin/modules/stock_take/submenu.php:28
+msgid "Current Stock Take"
+msgstr "Inventarisasi Aktif"
+
+#: admin/modules/stock_take/submenu.php:28
+msgid "View Current Stock Take Process"
+msgstr "Lihat Proses Inventarisasi Koleksi Aktif"
+
+#: admin/modules/stock_take/submenu.php:29
+msgid "Stock Take Report"
+msgstr "Laporan Inventarisasi"
+
+#: admin/modules/stock_take/submenu.php:29
+msgid "View Current Stock Take Report"
+msgstr "Lihat Laporan Proses Inventarisasi Koleksi Aktif"
+
+#: admin/modules/stock_take/submenu.php:30
+msgid "Finish Stock Take"
+msgstr "Selesaikan Inventarisasi"
+
+#: admin/modules/stock_take/submenu.php:30
+msgid "Finish Current Stock Take Proccess"
+msgstr "Selesaikan Proses Inventarisasi Aktif"
+
+#: admin/modules/stock_take/submenu.php:31
+msgid "View Lost Item in Current Stock Take Proccess"
+msgstr "Daftar Koleksi Hilang pada Proses Inventarisasi Koleksi Aktif"
+
+#: admin/modules/stock_take/submenu.php:32
+msgid "Stock Take Log"
+msgstr "Log Inventarisasi"
+
+#: admin/modules/stock_take/submenu.php:32
+msgid "View Log of Current Stock Take Proccess"
+msgstr "Lihat Log dari Proses Inventarisasi Aktif"
+
+#: admin/modules/stock_take/submenu.php:33
+msgid "Resynchronize"
+msgstr "Sinkronisasi Ulang"
+
+#: admin/modules/stock_take/submenu.php:33
+msgid "Resynchronize bibliographic data with current stock take"
+msgstr "Sinkronisasi ulang data bibliografi dengan proses inventarisasi aktif"
+
+#: admin/modules/stock_take/submenu.php:34
+msgid "Upload List"
+msgstr "Unggah Daftar"
+
+#: admin/modules/stock_take/submenu.php:34
+msgid "Upload List in text file"
+msgstr "Unggah Daftar barcode dalam file teks"
+
+#: admin/modules/stock_take/submenu.php:36
+msgid "Initialize"
+msgstr "Inisialisasi/Mulai"
+
+#: admin/modules/stock_take/submenu.php:36
+msgid "Initialize New Stock Take Proccess"
+msgstr "Memulai Proses Inventarisasi Koleksi Baru"
+
+#: admin/modules/stock_take/finish.php:46
+msgid "NO stock taking proccess running!"
+msgstr "TIDAK ADA proses inventarisasi yang sedang berjalan!"
+
+#: admin/modules/stock_take/finish.php:147
+msgid "Stock Take Proccess Finished!"
+msgstr "Proses Inventarisasi Koleksi Selesai!"
+
+#: admin/modules/stock_take/finish.php:157
+msgid "Are you sure to end current stock take proccess? Once it finished there is no way you can rollback this stock take"
+msgstr "Anda yakin mengakhiri proses Inventarisasi Koleksi? Setelah diakhiri anda tidak bisa mengubah kembali data Inventarisasi"
+
+#: admin/modules/stock_take/finish.php:174
+msgid "Purge Lost Item"
+msgstr "Buang Data Koleksi Hilang"
+
+#: admin/modules/stock_take/resync.php:61
+msgid "Re-synchronize will only update current stock take's item data. It won't update any new bibliographic or item data that were inserted in the middle of stock take proccess"
+msgstr "Resinkronisasi hanya meng-update data bibliografi dan item yang masuk dalam daftar Inventarisasi, bukan data bibliografi/item baru yang dimasukkan ditengah proses stok opname"
+
+#: admin/modules/stock_take/resync.php:64
+msgid "Resynchronize Now"
+msgstr "Resinkronisasi Sekarang"
+
+#: admin/modules/stock_take/init.php:46
+msgid "There is already stock taking proccess running!"
+msgstr "Sudah ada proses Inventarisasi Koleksi yang sedang berjalan!"
+
+#: admin/modules/stock_take/init.php:50
+msgid "Stock Take Name must be filled!"
+msgstr "Nama/Kode Inventarisasi koleksi tidak boleh kosong!"
+
+#: admin/modules/stock_take/init.php:129
+msgid "Stock Taking Initialized"
+msgstr "Inisialisasi Inventarisasi Koleksi Berhasil"
+
+#: admin/modules/stock_take/init.php:134
+msgid ""
+"Stock Taking FAILED to Initialized.\\n"
+"No item to stock take!"
+msgstr ""
+"Inventarisasi GAGAL.\\n"
+" Tak ada item untuk diinventarisasi"
+
+#: admin/modules/stock_take/init.php:142
+msgid "Initialize Stock Take"
+msgstr "Inisialisasi Sekarang"
+
+#: admin/modules/stock_take/init.php:180
+msgid "Separate each class comma sign. Use * for wildcard"
+msgstr "Pisahkan setiap kelas dengan tanda koma. Gunakan * sebagai wildcard"
+
+#: admin/modules/stock_take/current.php:64
+msgid "STOCK TAKE PROCCESS - Insert Item Code/Barcode with keyboard or barcode scanner"
+msgstr "PROSES INVENTARISASI - Masukan kode item/barcode menggunakan pemindai barcode atau keyboard"
+
+#: admin/modules/stock_take/current.php:66
+msgid "Change Status"
+msgstr "Ubah Status"
+
+#: admin/modules/stock_take/current.php:67
+msgid "List stocktakes by"
+msgstr "Daftar stok take item"
+
+#: admin/modules/stock_take/current.php:68
+msgid "Current User Only"
+msgstr "User saat ini"
+
+#: admin/modules/stock_take/current.php:69
+msgid "All User"
+msgstr "Semua User"
+
+#: admin/modules/stock_take/current.php:73
+msgid "Current Missing/Lost Items"
+msgstr "Koleksi Hilang saat ini"
+
+#: admin/modules/stock_take/current.php:98
+msgid "Exists"
+msgstr "Ada"
+
+#: admin/modules/stock_take/current.php:98
+msgid "On Loan"
+msgstr "Sedang dipinjam"
+
+#: admin/modules/stock_take/current.php:98
+msgid "Missing"
+msgstr "Hilang"
+
+#: admin/modules/stock_take/index.php:65
+msgid "Initializer"
+msgstr "Yang Meng-inisialisasi"
+
+#: admin/modules/stock_take/index.php:68
+msgid "Total Item Exists"
+msgstr "Jumlah Koleksi Yang Ada"
+
+#: admin/modules/stock_take/index.php:72
+#: admin/modules/stock_take/index.php:114
+msgid "Report"
+msgstr "Laporan"
+
+#: admin/modules/stock_take/index.php:88
+msgid "Currently Active"
+msgstr "Dalam Proses"
+
+#: admin/modules/circulation/fines_list.php:59
+msgid "Fines Description and Debet value can't be empty"
+msgstr "Deskripsi Denda dan Debet tidak boleh kosong"
+
+#: admin/modules/circulation/fines_list.php:61
+msgid "Value of Credit can not be higher that Debet Value"
+msgstr "Nilai Kredit tidak boleh lebih besar dari Debet"
+
+#: admin/modules/circulation/fines_list.php:79
+msgid "Fines Data Successfully Updated"
+msgstr "Data Denda Berhasil Diperbaharui"
+
+#: admin/modules/circulation/fines_list.php:80
+msgid "Fines Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data Denda GAGAL Diperbaharui. Hubungi System Administrator Untuk Pemecahannya"
+
+#: admin/modules/circulation/fines_list.php:86
+msgid "New Fines Data Successfully Saved"
+msgstr "Data Denda Berhasil Disimpan"
+
+#: admin/modules/circulation/fines_list.php:87
+msgid "Fines Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data Denda GAGAL Disimpan. Hubungi System Administrator Untuk Pemecahannya"
+
+#: admin/modules/circulation/fines_list.php:123
+msgid "Add New Fines"
+msgstr "Tambah Denda"
+
+#: admin/modules/circulation/fines_list.php:124
+msgid "Fines List"
+msgstr "Daftar Denda"
+
+#: admin/modules/circulation/fines_list.php:125
+msgid "View Balanced Overdue"
+msgstr "Denda Yang sudah Lunas"
+
+#: admin/modules/circulation/fines_list.php:162
+#: admin/modules/circulation/fines_list.php:186
+msgid "Fines Date"
+msgstr "Tanggal Denda"
+
+#: admin/modules/circulation/fines_list.php:164
+#: admin/modules/circulation/fines_list.php:185
+msgid "Description/Name"
+msgstr "Deskripsi/Nama"
+
+#: admin/modules/circulation/fines_list.php:166
+#: admin/modules/circulation/fines_list.php:187
+msgid "Debit"
+msgstr "Debet"
+
+#: admin/modules/circulation/fines_list.php:168
+#: admin/modules/circulation/fines_list.php:188
+msgid "Credit"
+msgstr "Kredit"
+
+#: admin/modules/circulation/fines_list.php:172
+msgid "You are going to edit fines data"
+msgstr "Anda akan memperbaharui data denda"
+
+#: admin/modules/circulation/loan.php:118
+msgid "Insert Item Code/Barcode"
+msgstr "Masukkan Kode Barkod"
+
+#: admin/modules/circulation/loan.php:120
+#: admin/modules/circulation/pop_loan_receipt.php:80
+msgid "Loan"
+msgstr "Pinjam"
+
+#: admin/modules/circulation/loan.php:147
+msgid "Click To Change Loan Date"
+msgstr "Klik untuk mengubah manual tanggal peminjaman"
+
+#: admin/modules/circulation/loan.php:148
+msgid "Click To Change Due Date"
+msgstr "Klik untuk mengubah manual tanggal jatuh tempo"
+
+#: admin/modules/circulation/pop_loan_receipt.php:80
+msgid "Extended"
+msgstr "Peminjaman Diperpanjang"
+
+#: admin/modules/circulation/pop_loan_receipt.php:135
+#: admin/modules/circulation/quick_return.php:55
+msgid "Return"
+msgstr "Kembali"
+
+#: admin/modules/circulation/loan_rules.php:69
+msgid "Loan Rules Successfully Updated"
+msgstr "Aturan Peminjaman Berhasil Diperbaharui"
+
+#: admin/modules/circulation/loan_rules.php:71
+msgid "Loan Rules FAILED to Updated. Please Contact System Administrator"
+msgstr "Aturan Peminjaman GAGAL Diperbaharui. Hubungi System Administrator Untuk Pemecahannya"
+
+#: admin/modules/circulation/loan_rules.php:77
+msgid "New Loan Rules Successfully Saved"
+msgstr "Aturan Peminjaman Baru Berhasil Disimpan"
+
+#: admin/modules/circulation/loan_rules.php:79
+msgid "Loan Rules FAILED to Save. Please Contact System Administrator"
+msgstr "Aturan Peminjaman GAGAL Disimpan. Hubungi System Administrator Untuk Pemecahannya"
+
+#: admin/modules/circulation/loan_rules.php:120
+#: admin/modules/circulation/submenu.php:26
+msgid "Loan Rules"
+msgstr "Aturan Peminjaman"
+
+#: admin/modules/circulation/loan_rules.php:120
+msgid "Add New Loan Rules"
+msgstr "Tambah Aturan Peminjaman"
+
+#: admin/modules/circulation/loan_rules.php:121
+msgid "Loan Rules List"
+msgstr "Daftar Aturan Peminjaman"
+
+#: admin/modules/circulation/loan_rules.php:192
+#: admin/modules/circulation/loan_rules.php:222
+#: admin/modules/circulation/loan_rules.php:229
+msgid "Loan Period"
+msgstr "Periode Peminjaman"
+
+#: admin/modules/circulation/loan_rules.php:196
+msgid "Fines Each Day"
+msgstr "Denda Harian"
+
+#: admin/modules/circulation/loan_rules.php:202
+msgid "You are going to edit loan rules"
+msgstr "Anda akan memperbaharui aturan peminjaman"
+
+#: admin/modules/circulation/quick_return.php:44
+msgid "Quick Return is disabled"
+msgstr "Pengembalian cepat tidak tersedia"
+
+#: admin/modules/circulation/quick_return.php:50
+#: admin/modules/circulation/submenu.php:25
+msgid "Quick Return"
+msgstr "Pengembalian Kilat"
+
+#: admin/modules/circulation/quick_return.php:50
+msgid "Insert an item ID to return collection with keyboard or barcode reader"
+msgstr "Masukan nomor Kode Item dengan menggunakan keyboard atau barcode reader"
+
+#: admin/modules/circulation/quick_return.php:53
+msgid "Item ID"
+msgstr "Item ID"
+
+#: admin/modules/circulation/circulation_action.php:49
+msgid "ERROR! Loan data can't be saved to database"
+msgstr "ERROR! Data peminjaman tidak dapat masuk ke dalam database"
+
+#: admin/modules/circulation/circulation_action.php:57
+msgid "Transaction finished"
+msgstr "Transaksi Selesai"
+
+#: admin/modules/circulation/circulation_action.php:85
+#: admin/modules/circulation/circulation_action.php:107
+msgid "Overdue fines inserted to fines database"
+msgstr "Denda keterlambatan telah masuk ke dalam database"
+
+#: admin/modules/circulation/circulation_action.php:98
+msgid "Item CANNOT BE Extended! This Item is being reserved by other member"
+msgstr "Masa Peminjaman koleksi TIDAK BISA diperpanjang. Telah dipesan oleh anggota lain"
+
+#: admin/modules/circulation/circulation_action.php:105
+msgid "Loan Extended"
+msgstr "Peminjaman diperpanjang"
+
+#: admin/modules/circulation/circulation_action.php:133
+#: admin/modules/circulation/circulation_action.php:140
+msgid "Loan Limit Reached!"
+msgstr "Jumlah peminjaman sudah maksimal!"
+
+#: admin/modules/circulation/circulation_action.php:133
+#: admin/modules/circulation/circulation_action.php:154
+msgid "Do You Want To Overide This?"
+msgstr "Anda mau menganulir ketentuan ini?"
+
+#: admin/modules/circulation/circulation_action.php:154
+msgid "WARNING! This Item is reserved by another member"
+msgstr "PERHATIAN! Item ini telah direservasi oleh anggota yang lain"
+
+#: admin/modules/circulation/circulation_action.php:164
+msgid "This Item is not registered in database"
+msgstr "Item ini tidak terdaftar dalam pangkalan data"
+
+#: admin/modules/circulation/circulation_action.php:169
+msgid "This Item is currently not available"
+msgstr "Item tidak dipinjamkan untuk saat ini"
+
+#: admin/modules/circulation/circulation_action.php:174
+msgid "Loan NOT PERMITTED! Membership already EXPIRED!"
+msgstr "DILARANG meminjam! Keanggotaan sudah habis!"
+
+#: admin/modules/circulation/circulation_action.php:179
+msgid "Loan NOT PERMITTED! Membership under PENDING State!"
+msgstr "DILARANG meminjam! Keanggotaan sedang ditunda untuk sementara!"
+
+#: admin/modules/circulation/circulation_action.php:184
+msgid "Loan Forbidden for this Item!"
+msgstr "Item tidak dipinjamkan!"
+
+#: admin/modules/circulation/circulation_action.php:221
+msgid "Item {removeID} removed from session"
+msgstr "Item {removeID} dihapus dari session"
+
+#: admin/modules/circulation/circulation_action.php:238
+msgid "This is item already returned or not exists in loan database"
+msgstr "Item ini sudah dikembalikan atau tidak terdaftar pada tabel peminjaman"
+
+#: admin/modules/circulation/circulation_action.php:249
+msgid "OVERDUED for {overdueDays} days(s) with fines value of"
+msgstr "TERLAMBAT {overdueDays} hari dengan denda sebesar"
+
+#: admin/modules/circulation/circulation_action.php:262
+msgid "Item {itemCode} is being reserved by member {member}"
+msgstr "Koleksi {itemCode} saat ini sedang dalam reservasi oleh anggota {member}"
+
+#: admin/modules/circulation/circulation_action.php:273
+msgid " successfully returned on"
+msgstr " sudah dikembalikan pada"
+
+#: admin/modules/circulation/circulation_action.php:301
+msgid "NO DATA Selected to reserve!"
+msgstr "TIDAK ADA DATA yang dipilih untuk reservasi!"
+
+#: admin/modules/circulation/circulation_action.php:314
+msgid "Can not add more reservation. Maximum limit reached"
+msgstr "Tidak bisa menambahkan data reservasi karena sudah mencapai batas maksimum reservasi"
+
+#: admin/modules/circulation/circulation_action.php:332
+msgid "Can't reserve this Item. Loan Forbidden!"
+msgstr "Tidak bisa mereservasi. Item tidak untuk dipinjamkan!"
+
+#: admin/modules/circulation/circulation_action.php:350
+msgid "Reservation added"
+msgstr "Reservasi ditambahkan"
+
+#: admin/modules/circulation/circulation_action.php:355
+msgid "Item for this title is already available or already on hold by this member!"
+msgstr "Item untuk judul ini sudah tersedia atau sudah dipinjam oleh yang bersangkutan!"
+
+#: admin/modules/circulation/circulation_action.php:374
+msgid "Reservation removed"
+msgstr "Reservasi dihapus"
+
+#: admin/modules/circulation/circulation_action.php:389
+msgid "Fines data removed"
+msgstr "Data denda dihapus"
+
+#: admin/modules/circulation/circulation_action.php:413
+msgid " not valid (unregistered in database)"
+msgstr " tidak terdaftar (tidak diregistrasi dalam database)"
+
+#: admin/modules/circulation/circulation_action.php:442
+msgid "Finish Transaction"
+msgstr "Selesai Transaksi"
+
+#: admin/modules/circulation/circulation_action.php:442
+msgid "Are you sure want to finish current transaction?"
+msgstr "Tutup/Selesaikan Transaksi?"
+
+#: admin/modules/circulation/circulation_action.php:478
+msgid "Membership currently in pending state, loan transaction is locked."
+msgstr "Keanggotaan saat ini ditunda, transaksi peminjaman tidak bisa dilakukan."
+
+#: admin/modules/circulation/circulation_action.php:485
+msgid "Loans"
+msgstr "Peminjaman"
+
+#: admin/modules/circulation/circulation_action.php:486
+msgid "Current Loans"
+msgstr "Pinjaman Saat Ini"
+
+#: admin/modules/circulation/circulation_action.php:490
+msgid "Fines"
+msgstr "Denda"
+
+#: admin/modules/circulation/circulation_action.php:491
+#: admin/modules/circulation/submenu.php:27
+msgid "Loan History"
+msgstr "Sejarah Peminjaman"
+
+#: admin/modules/circulation/submenu.php:23
+msgid "Circulation"
+msgstr "Sirkulasi"
+
+#: admin/modules/circulation/submenu.php:24
+msgid "Start Transaction"
+msgstr "Mulai Transaksi"
+
+#: admin/modules/circulation/submenu.php:24
+msgid "Start Circulation Transaction Proccess"
+msgstr "Mulai Proses Transaksi Sirkulasi"
+
+#: admin/modules/circulation/submenu.php:25
+msgid "Quick Return Collection"
+msgstr "Pengembalian Kilat Koleksi"
+
+#: admin/modules/circulation/submenu.php:26
+msgid "View and Modify Circulation Loan Rules"
+msgstr "Lihat dan Memodifikasi Aturan Peminjaman"
+
+#: admin/modules/circulation/submenu.php:27
+msgid "Loan History Overview"
+msgstr "Sejarah Peminjaman"
+
+#: admin/modules/circulation/submenu.php:28
+msgid "Overdued List"
+msgstr "Daftar Keterlambatan"
+
+#: admin/modules/circulation/submenu.php:28
+msgid "View Members Having Overdues"
+msgstr "Daftar Anggota yang Memiliki Keterlambatan"
+
+#: admin/modules/circulation/submenu.php:29
+msgid "Reservation"
+msgstr "Reservasi"
+
+#: admin/modules/circulation/reserve_list.php:49
+msgid "Are you sure to remove reservation for"
+msgstr "Anda yakin untuk menghapus reservasi dari"
+
+#: admin/modules/circulation/reserve_list.php:63
+msgid "Search Collection"
+msgstr "Cari Koleksi"
+
+#: admin/modules/circulation/reserve_list.php:70
+msgid "Add Reserve"
+msgstr "Tambah Reservasi"
+
+#: admin/modules/circulation/reserve_list.php:90
+msgid "Reserve Date"
+msgstr "Tanggal Reservasi"
+
+#: admin/modules/circulation/reserve_list.php:108
+msgid "ALREADY EXPIRED"
+msgstr "SUDAH JATUH TEMPO"
+
+#: admin/modules/circulation/loan_list.php:53
+msgid "Are you sure you want to return the item"
+msgstr "Yakin akan mengembalikan koleksi ini"
+
+#: admin/modules/circulation/loan_list.php:55
+msgid "Are you sure to extend loan for"
+msgstr "Yakin akan memperpanjang koleksi"
+
+#: admin/modules/circulation/loan_list.php:89
+msgid "Col. Type"
+msgstr "Tipe Koleksi"
+
+#: admin/modules/circulation/loan_list.php:99
+msgid "Return this item"
+msgstr "Kembalikan Koleksi ini"
+
+#: admin/modules/circulation/loan_list.php:103
+#: admin/modules/circulation/loan_list.php:107
+#: admin/modules/circulation/loan_list.php:109
+msgid "No Extend"
+msgstr "Tidak Boleh Perpanjang Peminjaman"
+
+#: admin/modules/circulation/loan_list.php:111
+msgid "Extend loan for this item"
+msgstr "Perpanjang Peminjaman untuk Koleksi ini"
+
+#: admin/modules/circulation/loan_list.php:123
+msgid "OVERDUED for"
+msgstr "TERLAMBAT selama"
+
+#: admin/modules/circulation/loan_list.php:123
+msgid "days(s) with fines value"
+msgstr "hari dengan jumlah denda"
+
+#: admin/modules/circulation/loan_list.php:165
+msgid "Send overdues notice e-mail"
+msgstr "Kirim surel  tentang informasi keterlambatan"
+
+#: admin/modules/circulation/index.php:51
+msgid "CIRCULATION - Insert a member ID to start transaction with keyboard or barcode reader"
+msgstr "SIRKULASI - Masukkan nomor anggota untuk mulai transaksi dengan keyboard atau pemindai"
+
+#: admin/modules/circulation/index.php:69
+msgid "Transaction with member {member_id} is completed"
+msgstr "Transaksi sirkulasi dengan anggota {member_id} telah selesai"
+
+#: admin/modules/circulation/member_loan_hist.php:58
+msgid "Not Returned Yet"
+msgstr "Belum ada yang dikembalikan"
+
+#: admin/modules/circulation/member_loan_hist.php:58
+msgid "Returned Date"
+msgstr "Tanggal Dikembalikan"
+
+#: admin/modules/master_file/item_status.php:46
+msgid "No Loan Transaction"
+msgstr "Tidak Ada Transaksi Peminjaman"
+
+#: admin/modules/master_file/item_status.php:47
+msgid "Skipped By Stock Take"
+msgstr "Lewatkan ketika Inventarisasi"
+
+#: admin/modules/master_file/item_status.php:55
+msgid "Item Status ID and Name can't be empty"
+msgstr "Kode dan Nama Status Koleksi tidak boleh kosong"
+
+#: admin/modules/master_file/item_status.php:93
+msgid "Item Status Data Successfully Updated"
+msgstr "Status Koleksi Berhasil Diperbaharui"
+
+#: admin/modules/master_file/item_status.php:97
+msgid "Item Status Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Status Koleksi GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: admin/modules/master_file/item_status.php:104
+msgid "New Item Status Data Successfully Saved"
+msgstr "Status Koleksi Yang Baru Berhasil Disimpan"
+
+#: admin/modules/master_file/item_status.php:106
+msgid "Item Status Data FAILED to Save. Please Contact System Administrator"
+msgstr "Status Koleksi GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: admin/modules/master_file/item_status.php:147
+msgid "Add New Item Status"
+msgstr "Tambah Status Koleksi Baru"
+
+#: admin/modules/master_file/item_status.php:190
+#: admin/modules/master_file/item_status.php:218
+#: admin/modules/master_file/item_status.php:222
+msgid "Item Status Code"
+msgstr "Kode Status Koleksi"
+
+#: admin/modules/master_file/item_status.php:192
+#: admin/modules/master_file/item_status.php:219
+#: admin/modules/master_file/item_status.php:223
+msgid "Item Status Name"
+msgstr "Status Koleksi"
+
+#: admin/modules/master_file/item_status.php:201
+msgid "Rules"
+msgstr "Peraturannya"
+
+#: admin/modules/master_file/item_status.php:205
+msgid "You are going to edit Item Status data"
+msgstr "Anda akan menyunting data status koleksi"
+
+#: admin/modules/master_file/location.php:51
+msgid "Location ID and Name can't be empty"
+msgstr "Kode Lokasi dan Nama tidak boleh kosong"
+
+#: admin/modules/master_file/location.php:70
+msgid "Location Data Successfully Updated"
+msgstr "Data Lokasi Berhasil Diperbaharui"
+
+#: admin/modules/master_file/location.php:74
+msgid "Location Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data Lokasi GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: admin/modules/master_file/location.php:81
+msgid "New Location Data Successfully Saved"
+msgstr "Data Baru Lokasi Berhasil Disimpan"
+
+#: admin/modules/master_file/location.php:83
+msgid "Location Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data Lokasi GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: admin/modules/master_file/location.php:113
+msgid "Location ({item_name}) still used by {number_items} item(s)"
+msgstr "Lokasi {item_name} masih digunakan oleh {number_items} item"
+
+#: admin/modules/master_file/location.php:144
+msgid "Add New Location"
+msgstr "Lokasi Koleksi Baru"
+
+#: admin/modules/master_file/location.php:145
+msgid "Location List"
+msgstr "Daftar Lokasi"
+
+#: admin/modules/master_file/location.php:187
+#: admin/modules/master_file/location.php:206
+#: admin/modules/master_file/location.php:210
+msgid "Location Code"
+msgstr "Kode Lokasi"
+
+#: admin/modules/master_file/location.php:189
+#: admin/modules/master_file/location.php:207
+#: admin/modules/master_file/location.php:211
+msgid "Location Name"
+msgstr "Nama Lokasi"
+
+#: admin/modules/master_file/location.php:193
+msgid "You are going to edit location data"
+msgstr "Anda akan menyunting data lokasi"
+
+#: admin/modules/master_file/submenu.php:26
+msgid "Item Supplier"
+msgstr "Penyuplai Koleksi"
+
+#: admin/modules/master_file/submenu.php:29
+msgid "Item Location"
+msgstr "Lokasi Koleksi"
+
+#: admin/modules/master_file/submenu.php:30
+msgid "Lookup Files"
+msgstr "Daftar Referensi"
+
+#: admin/modules/master_file/submenu.php:35
+#: admin/modules/master_file/label.php:160
+msgid "Label"
+msgstr "Label"
+
+#: admin/modules/master_file/submenu.php:35
+msgid "Special Labels for Titles to Show Up On Homepage"
+msgstr "Label"
+
+#: admin/modules/master_file/label.php:109
+msgid "Label Data Successfully Updated"
+msgstr "Data Label Berhasil Diperbaharui"
+
+#: admin/modules/master_file/label.php:111
+msgid "Label Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Label GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: admin/modules/master_file/label.php:117
+msgid "New Label Data Successfully Saved"
+msgstr "Label Baru Berhasil Disimpan"
+
+#: admin/modules/master_file/label.php:119
+msgid "Label Data FAILED to Save. Please Contact System Administrator"
+msgstr "Label GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: admin/modules/master_file/label.php:160
+msgid "Add New Label"
+msgstr "Tambah Label"
+
+#: admin/modules/master_file/label.php:161
+msgid "Label List"
+msgstr "Daftar Label"
+
+#: admin/modules/master_file/label.php:203
+#: admin/modules/master_file/label.php:234
+#: admin/modules/master_file/label.php:238
+msgid "Label Name"
+msgstr "Nama Label"
+
+#: admin/modules/master_file/label.php:216
+#: admin/modules/master_file/label.php:233
+#: admin/modules/master_file/label.php:237
+msgid "Label Description"
+msgstr "Deskripsi Label"
+
+#: admin/modules/master_file/label.php:220
+msgid "You are going to edit Label data"
+msgstr "Anda akan menyunting data Label"
+
+#: admin/modules/master_file/coll_type.php:50
+msgid "Collection type name can't be empty"
+msgstr "Tipe koleksi tidak boleh kosong"
+
+#: admin/modules/master_file/coll_type.php:68
+msgid "Colllection Type Data Successfully Updated"
+msgstr "Data Tipe Koleksi Berhasil Diperbaharui"
+
+#: admin/modules/master_file/coll_type.php:70
+msgid "Colllection Type Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data Tipe Koleksi GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: admin/modules/master_file/coll_type.php:77
+msgid "New Colllection Type Data Successfully Saved"
+msgstr "Data Baru Tipe Koleksi Berhasil Disimpan"
+
+#: admin/modules/master_file/coll_type.php:140
+msgid "Add New Collection Type"
+msgstr "Tambah Tipe Koleksi Baru"
+
+#: admin/modules/master_file/coll_type.php:141
+msgid "Collection Type List"
+msgstr "Daftar Tipe Koleksi"
+
+#: admin/modules/master_file/coll_type.php:186
+msgid "You are going to edit collection type data"
+msgstr "Anda akan meng-edit data tipe koleksi"
+
+#: admin/modules/reporting/loan_report.php:49
+msgid "Total Loan"
+msgstr "Total Peminjaman"
+
+#: admin/modules/reporting/loan_report.php:57
+#: admin/modules/reporting/loan_report.php:61
+#: admin/modules/reporting/charts_report.php:106
+msgid "Total Loan By GMD/Medium"
+msgstr "Total Judul Menurut Media/GMD"
+
+#: admin/modules/reporting/loan_report.php:57
+#: admin/modules/reporting/loan_report.php:68
+#: admin/modules/reporting/index.php:74
+#: admin/modules/reporting/index.php:88
+#: admin/modules/reporting/member_report.php:62
+msgid "Show in chart/plot"
+msgstr "Tunjukkan dalam grafik"
+
+#: admin/modules/reporting/loan_report.php:68
+#: admin/modules/reporting/loan_report.php:72
+#: admin/modules/reporting/charts_report.php:119
+msgid "Total Loan By Collection Type"
+msgstr "Total Item Menurut Jenis Koleksi"
+
+#: admin/modules/reporting/loan_report.php:80
+#: admin/modules/reporting/loan_report.php:86
+msgid "Total Loan Transactions"
+msgstr "Total Transsaksi Peminjaman"
+
+#: admin/modules/reporting/loan_report.php:86
+msgid "Transaction Average (Per Day)"
+msgstr "Rata-Rata Transaksi Per Hari"
+
+#: admin/modules/reporting/loan_report.php:89
+msgid "Total Peak Transaction"
+msgstr "Transaksi Tertinggi Dalam Sehari"
+
+#: admin/modules/reporting/loan_report.php:94
+#: admin/modules/reporting/loan_report.php:101
+msgid "Members Already Had Loans"
+msgstr "Anggota Yang Meminjam"
+
+#: admin/modules/reporting/loan_report.php:101
+msgid "Members Never Have Loans Yet"
+msgstr "Anggota Belum Pernah Meminjam"
+
+#: admin/modules/reporting/loan_report.php:107
+msgid "Total Overdued Loans"
+msgstr "Total Peminjaman Terlambat"
+
+#: admin/modules/reporting/loan_report.php:110
+msgid "Loan Data Summary"
+msgstr "Statistik Peminjaman"
+
+#: admin/modules/reporting/loan_report.php:139
+#: admin/modules/reporting/loan_report.php:156
+#: admin/modules/reporting/submenu.php:25
+msgid "Loan Report"
+msgstr "Laporan Peminjaman"
+
+#: admin/modules/reporting/submenu.php:23
+msgid "Reporting"
+msgstr "Pelaporan"
+
+#: admin/modules/reporting/submenu.php:24
+#: admin/modules/reporting/index.php:154
+msgid "Collection Statistic"
+msgstr "Statistik Koleksi"
+
+#: admin/modules/reporting/submenu.php:24
+msgid "View Library Collection Statistic"
+msgstr "Tampilkan statistik koleksi perpustakaan"
+
+#: admin/modules/reporting/submenu.php:25
+msgid "View Library Loan Report"
+msgstr "Tampilkan laporan peminjaman perpustakaan"
+
+#: admin/modules/reporting/submenu.php:26
+#: admin/modules/reporting/member_report.php:115
+#: admin/modules/reporting/member_report.php:132
+msgid "Membership Report"
+msgstr "Laporan Anggota"
+
+#: admin/modules/reporting/submenu.php:26
+msgid "View Membership Report"
+msgstr "Tampilkan laporan keanggotaan perpustakaan"
+
+#: admin/modules/reporting/submenu.php:27
+msgid "Other Reports"
+msgstr "Laporan Lain"
+
+#: admin/modules/reporting/index.php:52
+msgid "Total Titles"
+msgstr "Total Judul"
+
+#: admin/modules/reporting/index.php:57
+#: admin/modules/reporting/index.php:67
+msgid "Total Items/Copies"
+msgstr "Total Item/Kopi"
+
+#: admin/modules/reporting/index.php:64
+#: admin/modules/reporting/index.php:67
+msgid "Total Checkout Items"
+msgstr "Total Item Dipinjam"
+
+#: admin/modules/reporting/index.php:67
+msgid "Total Items In Library"
+msgstr "Total Item Dalam Koleksi"
+
+#: admin/modules/reporting/index.php:74
+#: admin/modules/reporting/index.php:79
+#: admin/modules/reporting/charts_report.php:68
+msgid "Total Titles By Medium/GMD"
+msgstr "Total Judul Menurut Media/GMD"
+
+#: admin/modules/reporting/index.php:88
+#: admin/modules/reporting/index.php:93
+#: admin/modules/reporting/charts_report.php:80
+msgid "Total Items By Collection Type"
+msgstr "Total Item Menurut Jenis Koleksi"
+
+#: admin/modules/reporting/index.php:105
+msgid "10 Most Popular Titles"
+msgstr "10 Judul Terpopuler"
+
+#: admin/modules/reporting/index.php:108
+msgid "Collection Statistic Summary"
+msgstr "Statistik Koleksi"
+
+#: admin/modules/reporting/index.php:137
+msgid "Collection Statistic Report"
+msgstr "Laporan Statistik Koleksi Perpustakaan"
+
+#: admin/modules/reporting/report_dbgrid.inc.php:88
+msgid "record(s) found. Currently displaying page"
+msgstr "rekod ditemukan. Menampilkan halaman"
+
+#: admin/modules/reporting/report_dbgrid.inc.php:88
+msgid "record each page"
+msgstr "rekod setiap halamannya"
+
+#: admin/modules/reporting/report_dbgrid.inc.php:88
+#: admin/modules/reporting/customs/loan_by_class.php:221
+#: admin/modules/reporting/customs/visitor_report_day.php:131
+msgid "Print Current Page"
+msgstr "Cetak Halaman ini"
+
+#: admin/modules/reporting/member_report.php:49
+msgid "Total Registered Members"
+msgstr "Total Anggota Terdaftar"
+
+#: admin/modules/reporting/member_report.php:55
+msgid "Total Active Member"
+msgstr "Total Anggota Yang Aktif"
+
+#: admin/modules/reporting/member_report.php:62
+#: admin/modules/reporting/member_report.php:66
+#: admin/modules/reporting/charts_report.php:94
+msgid "Total Members By Membership Type"
+msgstr "Jumlah Anggota Menurut Jenis Keanggotaan"
+
+#: admin/modules/reporting/member_report.php:72
+msgid "Total Expired Member"
+msgstr "Total Keanggotaan Kedaluarsa"
+
+#: admin/modules/reporting/member_report.php:83
+msgid "10 most active members"
+msgstr "10 Anggota Paling Aktif"
+
+#: admin/modules/reporting/member_report.php:86
+msgid "Membership Data Summary"
+msgstr "Statistik Keanggotaan"
+
+#: admin/modules/reporting/customs/loan_history.php:84
+#: admin/modules/reporting/customs/member_loan_list.php:69
+msgid "Loan Date From"
+msgstr "Tanggal Pinjam sejak"
+
+#: admin/modules/reporting/customs/loan_history.php:92
+#: admin/modules/reporting/customs/member_loan_list.php:77
+msgid "Loan Date Until"
+msgstr "Tanggal Pinjam hingga"
+
+#: admin/modules/reporting/customs/loan_history.php:100
+#: admin/modules/reporting/customs/loan_history.php:136
+msgid "Loan Status"
+msgstr "Status peminjaman"
+
+#: admin/modules/reporting/customs/loan_history.php:102
+#: admin/modules/reporting/customs/loan_history.php:186
+msgid "Returned"
+msgstr "Telah Kembali"
+
+#: admin/modules/reporting/customs/loan_history.php:106
+#: admin/modules/reporting/customs/visitor_list.php:101
+#: admin/modules/reporting/customs/member_list.php:111
+#: admin/modules/reporting/customs/member_loan_list.php:85
+msgid "Record each page"
+msgstr "Rekod per halaman"
+
+#: admin/modules/reporting/customs/loan_history.php:107
+#: admin/modules/reporting/customs/visitor_list.php:102
+#: admin/modules/reporting/customs/member_list.php:112
+#: admin/modules/reporting/customs/member_loan_list.php:86
+msgid "Set between 20 and 200"
+msgstr "antara 20 dan 200"
+
+#: admin/modules/reporting/customs/staff_act.php:56
+msgid "Staff Activity"
+msgstr "Aktifitas Staf"
+
+#: admin/modules/reporting/customs/staff_act.php:60
+msgid "Activity Date From"
+msgstr "Aktifitas sejak"
+
+#: admin/modules/reporting/customs/staff_act.php:66
+msgid "Activity Date Until"
+msgstr "Aktifitas hingga"
+
+#: admin/modules/reporting/customs/staff_act.php:92
+msgid "Bibliography Data Entry"
+msgstr "Entri data Bibliografi"
+
+#: admin/modules/reporting/customs/staff_act.php:93
+msgid "Item Data Entry"
+msgstr "Entri data Item/Kopi"
+
+#: admin/modules/reporting/customs/staff_act.php:94
+msgid "Member Data Entry"
+msgstr "Entri data Anggota"
+
+#: admin/modules/reporting/customs/staff_act.php:95
+msgid "Circulation Tasks"
+msgstr "Sirkulasi"
+
+#: admin/modules/reporting/customs/visitor_list.php:58
+msgid "Visitor List"
+msgstr "Daftar Pengunjung"
+
+#: admin/modules/reporting/customs/visitor_list.php:68
+msgid "NON-Member visitor"
+msgstr "Pengunjung Bukan Anggota"
+
+#: admin/modules/reporting/customs/visitor_list.php:77
+msgid "Visitor ID"
+msgstr "ID Pengunjung"
+
+#: admin/modules/reporting/customs/visitor_list.php:89
+msgid "Visit Date From"
+msgstr "Tanggal Kunjungan Sejak"
+
+#: admin/modules/reporting/customs/visitor_list.php:95
+msgid "Visit Date Until"
+msgstr "Tanggal Kunjungan Hingga"
+
+#: admin/modules/reporting/customs/visitor_list.php:129
+msgid "Visit Date"
+msgstr "Tanggal Kunjungan"
+
+#: admin/modules/reporting/customs/loan_by_class.php:52
+msgid "Loans by Classification"
+msgstr "Peminjaman berdasarkan kelas"
+
+#: admin/modules/reporting/customs/loan_by_class.php:59
+msgid "0 Classes"
+msgstr "Kelas 0"
+
+#: admin/modules/reporting/customs/loan_by_class.php:60
+msgid "1 Classes"
+msgstr "Kelas 1"
+
+#: admin/modules/reporting/customs/loan_by_class.php:61
+msgid "2 Classes"
+msgstr "Kelas 2"
+
+#: admin/modules/reporting/customs/loan_by_class.php:62
+msgid "2X Classes (Islamic Related)"
+msgstr "Kelas 2X (Islam)"
+
+#: admin/modules/reporting/customs/loan_by_class.php:63
+msgid "3 Classes"
+msgstr "Kelas 3"
+
+#: admin/modules/reporting/customs/loan_by_class.php:64
+msgid "4 Classes"
+msgstr "Kelas 4"
+
+#: admin/modules/reporting/customs/loan_by_class.php:65
+msgid "5 Classes"
+msgstr "Kelas 5"
+
+#: admin/modules/reporting/customs/loan_by_class.php:66
+msgid "6 Classes"
+msgstr "Kelas 6"
+
+#: admin/modules/reporting/customs/loan_by_class.php:67
+msgid "7 Classes"
+msgstr "Kelas 7"
+
+#: admin/modules/reporting/customs/loan_by_class.php:68
+msgid "8 Classes"
+msgstr "Kelas 8"
+
+#: admin/modules/reporting/customs/loan_by_class.php:69
+msgid "9 Classes"
+msgstr "Kelas 9"
+
+#: admin/modules/reporting/customs/loan_by_class.php:70
+msgid "NON Decimal Classes"
+msgstr "Kelas Non-Desimal"
+
+#: admin/modules/reporting/customs/loan_by_class.php:115
+#: admin/modules/reporting/customs/visitor_report_day.php:44
+msgid "Jan"
+msgstr "Jan"
+
+#: admin/modules/reporting/customs/loan_by_class.php:116
+#: admin/modules/reporting/customs/visitor_report_day.php:45
+msgid "Feb"
+msgstr "Feb"
+
+#: admin/modules/reporting/customs/loan_by_class.php:117
+#: admin/modules/reporting/customs/visitor_report_day.php:46
+msgid "Mar"
+msgstr "Mar"
+
+#: admin/modules/reporting/customs/loan_by_class.php:118
+#: admin/modules/reporting/customs/visitor_report_day.php:47
+msgid "Apr"
+msgstr "Apr"
+
+#: admin/modules/reporting/customs/loan_by_class.php:119
+#: admin/modules/reporting/customs/visitor_report_day.php:48
+msgid "May"
+msgstr "Mei"
+
+#: admin/modules/reporting/customs/loan_by_class.php:120
+#: admin/modules/reporting/customs/visitor_report_day.php:49
+msgid "Jun"
+msgstr "Jun"
+
+#: admin/modules/reporting/customs/loan_by_class.php:121
+#: admin/modules/reporting/customs/visitor_report_day.php:50
+msgid "Jul"
+msgstr "Jul"
+
+#: admin/modules/reporting/customs/loan_by_class.php:122
+#: admin/modules/reporting/customs/visitor_report_day.php:51
+msgid "Aug"
+msgstr "Agu"
+
+#: admin/modules/reporting/customs/loan_by_class.php:123
+#: admin/modules/reporting/customs/visitor_report_day.php:52
+msgid "Sep"
+msgstr "Sep"
+
+#: admin/modules/reporting/customs/loan_by_class.php:124
+#: admin/modules/reporting/customs/visitor_report_day.php:53
+msgid "Oct"
+msgstr "Okt"
+
+#: admin/modules/reporting/customs/loan_by_class.php:125
+#: admin/modules/reporting/customs/visitor_report_day.php:54
+msgid "Nov"
+msgstr "Nov"
+
+#: admin/modules/reporting/customs/loan_by_class.php:126
+#: admin/modules/reporting/customs/visitor_report_day.php:55
+msgid "Dec"
+msgstr "Des"
+
+#: admin/modules/reporting/customs/member_list.php:99
+msgid "Register Date From"
+msgstr "Tanggal Pendaftaran sejak"
+
+#: admin/modules/reporting/customs/member_list.php:105
+msgid "Register Date Until"
+msgstr "Tanggal Pendaftaran hingga"
+
+#: admin/modules/reporting/customs/visitor_report_day.php:67
+msgid "Visitor Report"
+msgstr "Laporan Pengunjung"
+
+#: admin/modules/reporting/customs/member_loan_list.php:57
+msgid "Loan List by Member"
+msgstr "Daftar Peminjaman Anggota"
+
+#: admin/modules/reporting/customs/item_usage.php:56
+#: admin/modules/reporting/customs/customs_report_list.inc.php:31
+msgid "Items Usage Statistics"
+msgstr "Statistik Penggunaan Koleksi"
+
+#: admin/modules/reporting/customs/class_recap.php:56
+#: admin/modules/reporting/customs/customs_report_list.inc.php:28
+msgid "Custom Recapitulations"
+msgstr "Rekapitulasi"
+
+#: admin/modules/reporting/customs/class_recap.php:60
+msgid "Recap By"
+msgstr "Rekap berdasar"
+
+#: admin/modules/reporting/customs/class_recap.php:75
+msgid "Hide Filter Options"
+msgstr "Sembunyikan Pilihan Filter"
+
+#: admin/modules/reporting/customs/class_recap.php:258
+msgid "Title and Collection Recap by"
+msgstr "Rekap judul dan koleksi berdasar"
+
+#: admin/modules/reporting/customs/reserve_list.php:78
+msgid "Reserve Date From"
+msgstr "Tanggal Pesan sejak"
+
+#: admin/modules/reporting/customs/reserve_list.php:86
+msgid "Reserve Date Until"
+msgstr "Tanggal Pesan hingga"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:28
+msgid "Title and Collection recapitulation based on classification and others"
+msgstr "Rekapitulasi judul dan item berdasarkan klasifikasi dan lainnya"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:29
+#: admin/modules/reporting/customs/titles_list.php:57
+msgid "Title List"
+msgstr "Daftar Judul"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:29
+msgid "List of bibliographic titles"
+msgstr "Daftar judul bibliografi"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:30
+#: admin/modules/reporting/customs/item_titles_list.php:57
+msgid "Items Title List"
+msgstr "Daftar Item/Kopi"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:30
+msgid "List of collection/items"
+msgstr "Daftar Item/Kopi"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:31
+msgid "List of Collection/items usage statistic"
+msgstr "Statistik Penggunaan Koleksi"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:32
+msgid "Loan statistic by classification"
+msgstr "Statistik peminjaman berdasarkan kelas desimal"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:33
+msgid "List of library member/patron"
+msgstr "Daftar Anggota perpustakaan terdaftar"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:34
+msgid "List of loan by each member"
+msgstr "Daftar Peminjaman Anggota"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:36
+#: admin/modules/reporting/customs/due_date_warning.php:57
+msgid "Due Date Warning"
+msgstr "Peringatan Jatuh Tempo"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:36
+msgid "Loan Due Date Warnings"
+msgstr "Peringatan Jatuh Tempo Peminjaman"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:38
+msgid "Staff activity log recapitulation"
+msgstr "Rekapitulasi Aktifitas Staf"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:39
+msgid "Visitor Statistic"
+msgstr "Statistik Pengunjung"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:40
+msgid "Visitor Statistic (by Day)"
+msgstr "Statistik Pengunjung (berdasarkan hari)"
+
+#: admin/modules/reporting/customs/customs_report_list.inc.php:42
+#: admin/modules/reporting/customs/fines_report.php:67
+msgid "Fines Report"
+msgstr "Laporan Denda"
+
+#: admin/modules/reporting/customs/titles_list.php:88
+#: admin/modules/reporting/customs/item_titles_list.php:88
+msgid "Press Ctrl and click to select multiple entries"
+msgstr "Tekan 'Ctrl' dan klik untuk memilih lebih dari satu"
+
+#: admin/modules/reporting/customs/due_date_warning.php:58
+msgid "This report loan items which will due in 3 to 0 days"
+msgstr "Laporan peminjaman eksemplar yang akan terlambat dalam 3 sampai 0 hari"
+
+#: admin/modules/reporting/customs/overdued_list.php:172
+msgid "Overdue"
+msgstr "Keterlambatan"
+
+#: admin/modules/reporting/customs/overdued_list.php:172
+msgid "day(s)"
+msgstr "hari"
+
+#: admin/modules/reporting/customs/visitor_report.php:52
+msgid "Library Visitor Report"
+msgstr "Laporan Pengunjung Perpustakaan"
+
+#: admin/modules/reporting/customs/visitor_report.php:144
+msgid "NON-Member Visitor"
+msgstr "Pengunjung Bukan Anggota"
+
+#: admin/modules/reporting/customs/visitor_report.php:161
+msgid "Total visit/month"
+msgstr "Total Kunjungan/bulan"
+
+#: admin/modules/serial_control/kardex.php:61
+msgid "Kardex data updated!"
+msgstr "Data Kardeks tersimpan!"
+
+#: admin/modules/serial_control/kardex.php:67
+msgid "Kardex data deleted!"
+msgstr "Data Kardeks berhasil dihapus!"
+
+#: admin/modules/serial_control/serial_base_lib.inc.php:151
+msgid "Date Expected"
+msgstr "Tgl. Harus Terima"
+
+#: admin/modules/serial_control/serial_base_lib.inc.php:152
+msgid "Date Received"
+msgstr "Tgl. Diterima"
+
+#: admin/modules/serial_control/serial_base_lib.inc.php:152
+msgid "Seq. Number"
+msgstr "Nomor Urut"
+
+#: admin/modules/serial_control/serial_base_lib.inc.php:153
+msgid "Note"
+msgstr "Catatan"
+
+#: admin/modules/serial_control/serial_base_lib.inc.php:201
+msgid "Kardex Detail for subscription"
+msgstr "Detil kardeks untuk langganan"
+
+#: admin/modules/serial_control/submenu.php:23
+#: admin/modules/serial_control/index.php:53
+msgid "Serial Control"
+msgstr "Terbitan Berseri"
+
+#: admin/modules/serial_control/submenu.php:24
+msgid "Subscription"
+msgstr "Berlangganan"
+
+#: admin/modules/serial_control/submenu.php:24
+msgid "Manage Subscription"
+msgstr "Data Berlangganan Terbitan Berseri"
+
+#: admin/modules/serial_control/subscription.php:64
+msgid "Error inserting subscription data, Subscription Date must be filled!"
+msgstr "Error memasukan data berlangganan, Tanggal berlangganan harus diisikan!"
+
+#: admin/modules/serial_control/subscription.php:84
+msgid "Subscription Data Successfully Updated"
+msgstr "Data Berlangganan berhasil diperbarui"
+
+#: admin/modules/serial_control/subscription.php:86
+msgid "Subscription Data FAILED to Updated. Please Contact System Administrator"
+msgstr "Data Berlangganan GAGAL diperbarui. Harap hubungi Administrator sistem"
+
+#: admin/modules/serial_control/subscription.php:100
+msgid "New Subscription Data Successfully Saved"
+msgstr "Data Berlangganan baru berhasil disimpan"
+
+#: admin/modules/serial_control/subscription.php:102
+msgid "Subscription Data FAILED to Save. Please Contact System Administrator"
+msgstr "Data Berlangganan GAGAL disimpan. Harap hubungi Administrator sistem"
+
+#: admin/modules/serial_control/subscription.php:138
+msgid "Subscription data successfully deleted"
+msgstr "Data Langganan berhasil dihapus"
+
+#: admin/modules/serial_control/subscription.php:140
+msgid "Subscription data FAILED to deleted!"
+msgstr "Data Langganan GAGAL dihapus!"
+
+#: admin/modules/serial_control/subscription.php:177
+#: admin/modules/serial_control/subscription.php:220
+msgid "Subscription Start"
+msgstr "Mulai Berlangganan"
+
+#: admin/modules/serial_control/subscription.php:180
+msgid "Total Exemplar Expected"
+msgstr "Eksemplar Yang Diharapkan"
+
+#: admin/modules/serial_control/subscription.php:183
+#: admin/modules/serial_control/subscription.php:219
+msgid "Period Name"
+msgstr "Nama Periode Langganan"
+
+#: admin/modules/serial_control/subscription.php:185
+#: admin/modules/serial_control/subscription.php:221
+msgid "Subscription Notes"
+msgstr "Catatan"
+
+#: admin/modules/serial_control/subscription.php:199
+msgid "You are going to edit Subscription data"
+msgstr "Anda akan Mengubah data Berlangganan"
+
+#: admin/modules/serial_control/subscription.php:209
+msgid "View/Edit Kardex Detail"
+msgstr "Lihat/Ubah detik kardeks"
+
+#: admin/modules/serial_control/index.php:76
+msgid "Edit Bibliographic data"
+msgstr "Sunting Data Bibliografi"
+
+#: admin/modules/serial_control/index.php:78
+msgid "Add New Subscription"
+msgstr "Tambah Data Berlangganan"
+
+#: admin/modules/serial_control/index.php:80
+msgid "View Subscriptions"
+msgstr "Lihat Data Berlangganan"
+
+#: admin/modules/serial_control/index.php:82
+msgid "CLOSE"
+msgstr "TUTUP"
+
+#: admin/modules/serial_control/index.php:90
+msgid "Serial Title"
+msgstr "Judul Terbitan Berseri"
+
+#: admin/modules/system/holiday.php:67
+msgid "Holiday Data Successfully updated"
+msgstr "Libur Khusus Berhasil Diperbaharui"
+
+#: admin/modules/system/holiday.php:73
+msgid "Holiday FAILED to update. Please Contact System Administrator"
+msgstr "Libur Khusus GAGAL Diperbaharui. Hubungi admin sistem untuk pemecahannya"
+
+#: admin/modules/system/holiday.php:79
+msgid "New Holiday Successfully Saved"
+msgstr "Libur Khusus Baru Berhasil Disimpan"
+
+#: admin/modules/system/holiday.php:106
+msgid "Holiday FAILED to Save. Please Contact System Administrator"
+msgstr "Libur Khusus Baru GAGAL Disimpan. Hubungi admin sistem untuk pemecahannya"
+
+#: admin/modules/system/holiday.php:152
+msgid "Holiday Setting"
+msgstr "Hari Libur"
+
+#: admin/modules/system/holiday.php:154
+msgid "Set holiday"
+msgstr "Hari Libur"
+
+#: admin/modules/system/holiday.php:155
+msgid "Special holiday"
+msgstr "Daftar Libur Khusus"
+
+#: admin/modules/system/holiday.php:156
+msgid "Add Special holiday"
+msgstr "Tambah Hari Libur Khusus Baru"
+
+#: admin/modules/system/holiday.php:189
+#: admin/modules/system/holiday.php:213
+#: admin/modules/system/holiday.php:217
+msgid "Holiday Date Start"
+msgstr "Tanggal Libur"
+
+#: admin/modules/system/holiday.php:192
+msgid "Holiday Date End"
+msgstr "Tanggal Libur Akhir"
+
+#: admin/modules/system/holiday.php:195
+#: admin/modules/system/holiday.php:214
+#: admin/modules/system/holiday.php:218
+msgid "Holiday Description"
+msgstr "Keterangan"
+
+#: admin/modules/system/holiday.php:199
+msgid "You are going to edit holiday data"
+msgstr "Anda akan meng-edit hari libur"
+
+#: admin/modules/system/holiday.php:212
+#: admin/modules/system/holiday.php:216
+msgid "Day name"
+msgstr "Hari"
+
+#: admin/modules/system/holiday.php:251
+msgid "Maximum 6 day can be set as holiday!"
+msgstr "Maksimum 6 hari bisa di-set sebagai hari libur!"
+
+#: admin/modules/system/holiday.php:264
+msgid "Holiday settings saved"
+msgstr "Set hari libur berhasil disimpan"
+
+#: admin/modules/system/holiday.php:293
+msgid "Monday"
+msgstr "Senin"
+
+#: admin/modules/system/holiday.php:294
+msgid "Tuesday"
+msgstr "Selasa"
+
+#: admin/modules/system/holiday.php:295
+msgid "Wednesday"
+msgstr "Rabu"
+
+#: admin/modules/system/holiday.php:297
+msgid "Thursday"
+msgstr "Kamis"
+
+#: admin/modules/system/holiday.php:298
+msgid "Friday"
+msgstr "Jumat"
+
+#: admin/modules/system/holiday.php:299
+msgid "Saturday"
+msgstr "Sabtu"
+
+#: admin/modules/system/holiday.php:301
+msgid "Sunday"
+msgstr "Minggu"
+
+#: admin/modules/system/biblio_indexes.php:103
+msgid "Bibliographic Index"
+msgstr "Indeks Bibliografi"
+
+#: admin/modules/system/submenu.php:36
+msgid "Configure Holiday Setting"
+msgstr "Konfigurasi Hari Libur"
+
+#: admin/modules/system/submenu.php:37
+#: admin/modules/system/barcode_generator.php:86
+#: admin/modules/system/barcode_generator.php:116
+msgid "Barcode Generator"
+msgstr "Pembuat Barcode"
+
+#: admin/modules/system/index.php:169
+msgid "Public Template"
+msgstr "Template publik"
+
+#: admin/modules/system/index.php:182
+msgid "Admin Template"
+msgstr "Template administrasi"
+
+#: admin/modules/system/index.php:198
+msgid "Show Promoted Titles at Homepage"
+msgstr "Tampilkan Judul Terpilih di Homepage"
+
+#: admin/modules/system/index.php:208
+msgid "Don't Print"
+msgstr "Jangan Cetak"
+
+#: admin/modules/system/index.php:209
+msgid "Print"
+msgstr "Cetak"
+
+#: admin/modules/system/index.php:210
+msgid "Print Circulation Receipt"
+msgstr "Cetak Bukti Sirkulasi"
+
+#: admin/modules/system/index.php:216
+msgid "Loan and Due Date Manual Change"
+msgstr "Perubahan Tanggal Peminjaman dan Jatuh Tempo manual"
+
+#: admin/modules/system/index.php:222
+msgid "Loan Limit Override"
+msgstr "Mengabaikan batas pinjam"
+
+#: admin/modules/system/index.php:238
+msgid "Forbid"
+msgstr "Dilarang"
+
+#: admin/modules/system/index.php:239
+msgid "Allow"
+msgstr "Diijinkan"
+
+#: admin/modules/system/index.php:240
+msgid "Allow OPAC File Download"
+msgstr "Unduh file hasil pencarian OPAC"
+
+#: admin/modules/system/index.php:246
+msgid "Barcode Encoding"
+msgstr "Jenis Barkod"
+
+#: admin/modules/system/barcode_generator.php:101
+msgid "Error creating barcode!"
+msgstr "GAGAL mencetak Barcode!"
+
+#: admin/modules/system/barcode_generator.php:106
+msgid "Barcode generation finished"
+msgstr "Pencetakan Barcode selesai"
+
+#: admin/modules/system/barcode_generator.php:116
+msgid "Type barcodes text to one or more text field below and click"
+msgstr "Ketik teks Barcode dalam kotak di bawah ini dan klik"
+
+#: admin/modules/system/barcode_generator.php:116
+#: admin/modules/system/barcode_generator.php:146
+msgid "Generate Barcodes"
+msgstr "Cetak Barcode"
+
+#: admin/modules/system/barcode_generator.php:130
+msgid "Barcode Size"
+msgstr "Ukuran Barcode"
+
+#: admin/modules/system/barcode_generator.php:130
+msgid "Small"
+msgstr "Kecil"
+
+#: admin/modules/system/barcode_generator.php:131
+msgid "Medium"
+msgstr "Sedang"
+
+#: admin/modules/system/barcode_generator.php:132
+msgid "Big"
+msgstr "Besar"
+
+#: admin/default/home.php:35
+msgid "<strong>PHP GD</strong> extension is not installed. Please install it or application won't be able to create image thumbnail and barcode."
+msgstr "Extension <strong>PHP GD</strong> belum terinstall. Pastikan PHP GD terinstall atau aplikasi tidak dapat membuat thumbnail image dan membuat barcode"
+
+#: admin/default/home.php:39
+msgid "<strong>Freetype</strong> support is not enabled in PHP GD extension. Rebuild PHP GD extension with Freetype support or application won't be able to create barcode."
+msgstr "Dukungan <strong>Freetype</strong> pada PHP GD belum ada. Bangun atau install ulang PHP GD dengan dukungan Freetype atau aplikasi tidak dapat membuat barcode."
+
+#: admin/default/home.php:46
+msgid "There is currently <strong>{num_overdue}</strong> library members having overdue. Please check at <b>Circulation</b> module at <b>Overdues</b> section for more detail"
+msgstr "Terdapat <strong>{num_overdue}</strong> anggota perpustakaan terlambat mengembalikan koleksi. Cek modul <b>Sirkulasi</b> pada bagian <b>Keterlambatan</b> untuk lebih detil"
+
+#: admin/default/home.php:51
+msgid "<strong>Images</strong> directory and directories under it is not writable. Make sure it is writable by changing its permission or you won't be able to upload any images and create barcodes"
+msgstr "Direktori <strong>Images</strong> dan direktori-direktori di bawahnya tidak dapat ditulis. Pastikan direktori-direktori ini bisa ditulis atau aplikasi tidak dapat mengunggah gambar dan membuat barcode."
+
+#: admin/default/home.php:55
+msgid "<strong>Repository</strong> directory is not writable. Make sure it is writable (and all directories under it) by changing its permission or you won't be able to upload any bibliographic attachments."
+msgstr "Direktori <strong>Repository</strong> dan direktori-direktori di bawahnya tidak dapat ditulis. Pastikan direktori-direktori ini bisa ditulis atau aplikasi tidak bisa mengunggah file attachment untuk data bibliografi."
+
+#: admin/default/home.php:59
+msgid "<strong>File upload</strong> directory is not writable. Make sure it is writable (and all directories under it) by changing its permission or you won't be able to upload any file, create report files and create database backups."
+msgstr "Direktori <strong>Upload File</strong> dan direktori-direktori di bawahnya tidak dapat ditulis. Pastikan direktori-direktori ini bisa ditulis atau aplikasi tidak bisa mengunggah file, membuat report dan backup."
+
+msgid "Show Map"
+msgstr "Lokasi Perpustakaan"
+
+#~ msgid "Error authenticating user and password to database"
+#~ msgstr "Otentikasi user dan password error"
+#~ msgid "Unavailable"
+#~ msgstr "Tidak Tersedia"
+#~ msgid "copies at"
+#~ msgstr "kopi terdapat di"
+#~ msgid "Member E-Mail"
+#~ msgstr "E-mail Anggota"
+
+msgid "Bibliography"
+msgstr "Bibliografi"
+
+#~ msgid ""
+#~ "<strong>{dompdf_libdir}</strong> directory is not writable. Make sure it "
+#~ "is writable (and all directories under it) by changing its permission or "
+#~ "application won't be able to generate pdf files."
+#~ msgstr ""
+#~ "Direktori <strong>{dompdf_libdir}</strong> tidak dapat ditulis. Pastikan "
+#~ "direktori ini bisa ditulis atau aplikasi tidak dapat membuat file PDF."
+#~ msgid "Add New Kardex"
+#~ msgstr "Tambahkan Kardex"
+#~ msgid "cant be deleted because still have"
+#~ msgstr "tidak bisa dihapus karena masih memiliki"
+#~ msgid "Click for detail or edit this Record"
+#~ msgstr "Klik disini untuk detail atau perbaharuan rekod terkait"
+#~ msgid "Collection title must be set!"
+#~ msgstr "Judul koleksi harus dilengkapi!"
+#~ msgid "Collection Type ({item_name}) still used by {number_items} item(s)"
+#~ msgstr "Tipe koleksi {item_name} masih digunakan oleh {number_items} item"
+#~ msgid "ERROR! Data doesnt exists"
+#~ msgstr "ERROR! Data tidak ditemukan!"
+#~ msgid "Error! Fines data does not exists!"
+#~ msgstr "Error! Data denda tidak ditemukan!"
+#~ msgid "Error! Group data doesnt exists!"
+#~ msgstr "Error! Data Kelompok tidak ditemukan!"
+#~ msgid "Error! Holiday  data doesnt exists!"
+#~ msgstr "Error! Hari libur tidak ditemukan!"
+#~ msgid "Error! Loan Rules data doesnt exists!"
+#~ msgstr "Error! Data Peraturan Peminjaman tidak ditemukan!"
+#~ msgid "ERROR! Member Type data doesnt exists"
+#~ msgstr "ERROR! Data Tipe Keanggotaan tidak ditemukan"
+#~ msgid "Error! Module data doesnt exists!"
+#~ msgstr "Error! Data Modul tidak ditemukan!"
+#~ msgid "ERROR! Selected data doesn't exists"
+#~ msgstr "ERROR! Data terpilih tidak ditemukan"
+#~ msgid "Error! Subscription data does not exist!"
+#~ msgstr "Error! Data Berlangganan tidak ditemukan!"
+#~ msgid "Error! User data doesn't exists!"
+#~ msgstr "Error! Data Pengguna tidak ditemukan!"
+#~ msgid "File {file_d[0]} deleted"
+#~ msgstr "Berkas {file_d[0]} dihapus"
+#~ msgid "File {file_d[0]} FAIL to delete"
+#~ msgstr "Berkas {file_d[0]} TIDAK BISA dihapus"
+#~ msgid "File Attachment FAILED to upload"
+#~ msgstr "Lampiran Berkas GAGAL Diunggah"
+#~ msgid "File Attachment Uploaded Successfully"
+#~ msgstr "Lampiran Berkas Berhasil Diunggah"
+#~ msgid "GMD icon"
+#~ msgstr "Icon GMD"
+#~ msgid "GMD Successfully Deleted"
+#~ msgstr "Data GMD berhasil dihapus"
+#~ msgid "Group failed to delete"
+#~ msgstr "Kelompok pengguna GAGAL dihapus"
+#~ msgid "Group Successfully Deleted"
+#~ msgstr "Kelompok pengguna berhasil dihapus"
+#~ msgid "Holiday description cant be empty"
+#~ msgstr "Deskripi hari libur tidak boleh kosong"
+#~ msgid "Holiday failed to delete"
+#~ msgstr "Hari libur GAGAL dihapus"
+#~ msgid "Holiday Successfully Deleted"
+#~ msgstr "Hari libur berhasil dihapus"
+#~ msgid "is available"
+#~ msgstr "bisa dipinjam"
+#~ msgid "Item Data failed to delete"
+#~ msgstr "Item Data GAGAL dihapus"
+#~ msgid "Item Data Successfully Deleted"
+#~ msgstr "Item Data berhasil dihapus"
+#~ msgid "Item Status List"
+#~ msgstr "Daftar Status Koleksi"
+#~ msgid "Item(s) Data"
+#~ msgstr "Data Koleksi"
+#~ msgid "Kardex"
+#~ msgstr "Kardesk"
+#~ msgid "Label Image"
+#~ msgstr "Gambar Label"
+#~ msgid "Loan Rules FAIL To Delete"
+#~ msgstr "Peraturan Peminjaman GAGAL Dihapus"
+#~ msgid "Loan Rules Successfully Deleted"
+#~ msgstr "Peraturan Peminjaman Berhasil Dihapus"
+#~ msgid "Manage Kardex"
+#~ msgstr "Data Kardesk"
+#~ msgid "Member data"
+#~ msgstr "Data anggota"
+#~ msgid "Member Data failed to delete"
+#~ msgstr "Data Anggota gagal dihapus"
+#~ msgid "Member Data Successfully Deleted"
+#~ msgstr "Data Anggota Berhasil Dihapus"
+#~ msgid "Memeber(s) Having Overdue"
+#~ msgstr "Anggota Dengan Keterlambatan"
+#~ msgid "No File Attachment"
+#~ msgstr "Tidak Ada Berkas Terlampir"
+#~ msgid "No Image Available"
+#~ msgstr "Tidak ada gambar sampul"
+#~ msgid "No Place data yet"
+#~ msgstr "Belum ada tempat terbit"
+#~ msgid "Publisher Not Set Yet"
+#~ msgstr "Belum ada penerbit"
+#~ msgid "Record failed to delete"
+#~ msgstr "Rekod GAGAL dihapus"
+#~ msgid "Record Successfully Deleted"
+#~ msgstr "Cantuman Berhasil Dihapus"
+#~ msgid "Search Result"
+#~ msgstr "Hasil Pencarian"
+#~ msgid "Subject succesfully updated!"
+#~ msgstr "Subyek berhasil diperbaharui!"
+#~ msgid ""
+#~ "This Collection Type cant be deleted because still used by {item_d} "
+#~ "items. Delete Items data first"
+#~ msgstr ""
+#~ "Tipe Koleksi ini tidak bisa dihapus karena masih diguanakan oleh {item_d} "
+#~ "items. Hapus data item terlebih dahulu"
+#~ msgid ""
+#~ "This Location cant be deleted because still used by {item_d} items. "
+#~ "Delete Items data first"
+#~ msgstr ""
+#~ "Data Lokasi ini GAGAL dihapus karena masih digunakan oleh {item_d} item "
+#~ "dalam tabel\n"
+#~ "Hapus item terkait lebih dahulu"
+#~ msgid ""
+#~ "This title can not be deleted because still have {biblio_item} copies. "
+#~ "Delete Items data first"
+#~ msgstr ""
+#~ "Judul ini tidak bisa dihapus karena masih memiliki {biblio_item} item. "
+#~ "Hapus item terlebih dahulu"
+#~ msgid "unreturned items"
+#~ msgstr "pinjaman yang belum dikembalikan"
+#~ msgid "User failed to delete"
+#~ msgstr "Rekod Pengguna GAGAL dihapus"
+#~ msgid "User Successfully Deleted"
+#~ msgstr "Rekod Pengguna berhasil dihapus"
+#~ msgid "View Kardex"
+#~ msgstr "Lihat Data Kardex"
+#~ msgid "We have {copy} items/copies for this title"
+#~ msgstr "Perpustakaan memiliki {copy} kopi dari judul ini"
+#~ msgid ""
+#~ "We have {copy} items/copies for this title and ALL copies all currently "
+#~ "on loan"
+#~ msgstr "Perpustakaan memiliki {copy} kopi dan SELURUHNYA sedang dipinjamkan"
+#~ msgid "You cannot supply a blank password!"
+#~ msgstr "Password tidak boleh kosong!"
+#~ msgid "Print Selected Data"
+#~ msgstr "Cetak data terpilih"
+#~ msgid "All"
+#~ msgstr "Semua"
+#~ msgid "List"
+#~ msgstr "Daftar"
+
