@@ -1786,3 +1786,31 @@ img.image
     padding: 3px;
 }
 
+.item {
+    min-height: 70px;
+    text-align: left;
+    margin: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+    padding-top: 1px;
+    padding-left: 53px;
+    background: url(media/image.png) top left no-repeat;
+}  
+
+.item .titleField {
+    font-size: 117%;
+    font-weight: bold;
+}
+
+.item .xmlDetailLink {
+    font-size: 10px;
+    background-color: #FF9900;
+}
+
+.subItem {
+    margin-top: 3px;
+}
+
+.marginTop {
+    margin-top: 5px;
+}

@@ -96,7 +96,7 @@ if (isset($_POST['save']) AND (isset($_POST['topicID']) OR trim($_POST['search_s
     } else {
         if (!empty($_POST['topicID'])) {
             // add to current session
-            $_SESSION['biblioTag'][$_POST['topicID']] = array($_POST['topicID'], intval($_POST['level']));
+            $_SESSION['biblioTag'][$_POST['topicID']] = array($_POST['topicID'], 0);
         } else if ($subject AND empty($_POST['topicID'])) {
             // check subject
             $subject_id = checkSubject($subject);
@@ -112,11 +112,11 @@ if (isset($_POST['save']) AND (isset($_POST['topicID']) OR trim($_POST['search_s
                 $sql_op->insert('mst_tag', $topic_data);
                 $last_id = $sql_op->insert_id;
             }
-            $_SESSION['biblioTag'][$last_id] = array($last_id, intval($_POST['level']));
+            $_SESSION['biblioTag'][$last_id] = array($last_id, 0);
         }
 
         echo '<script type="text/javascript">';
-        echo 'alert(\''.__('Subject added!').'\');';
+        echo 'alert(\''.__('Subject TAG added!').'\');';
         echo 'parent.setIframeContent(\'tagIframe\', \''.MODULES_WEB_ROOT_DIR.'knowhow/iframe_tag.php\');';
         echo '</script>';
     }

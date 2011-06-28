@@ -128,8 +128,8 @@ if ($biblioID) {
 
             if ($biblio_session) {
                 $topic_q = $dbs->query("SELECT number FROM knowhow WHERE biblio_id=".$biblio_session[0]);
-				//echo "SELECT number FROM knowhow WHERE biblio_id=".$biblio_session[0];
-				//die();
+//				echo "SELECT number FROM knowhow WHERE biblio_id=".$biblio_session[0];
+//				die();
                 $topic_d = $topic_q->fetch_row();
                 $topic = $topic_d[0];
             }

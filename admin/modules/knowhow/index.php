@@ -300,7 +300,14 @@ if (isset($_POST['detail']) OR (isset($_GET['action']) AND $_GET['action'] == 'd
         // element visibility class toogle
         $visibility = 'makeHidden';
 
-    }
+    } else {
+		// clear related sessions
+		$_SESSION['biblioAuthor'] = array();
+		$_SESSION['biblioTopic'] = array();
+		$_SESSION['biblioAttach'] = array();
+		$_SESSION['biblioTag'] = array();
+		$_SESSION['kh_relation'] = array();
+	}
 
     /* Form Element(s) */
     // regulation title

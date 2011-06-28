@@ -18,7 +18,7 @@
  *
  */
 
-/* Biblio Topic Adding Pop Windows */
+/* Regulation Relation Pop Windows */
 
 // key to authenticate
 define('INDEX_AUTH', '1');
@@ -91,13 +91,13 @@ if (isset($_POST['save']) AND (isset($_POST['topicID']) OR trim($_POST['search_s
             echo 'parent.setIframeContent(\'relatedIframe\', \''.MODULES_WEB_ROOT_DIR.'knowhow/iframe_relation.php?biblioID='.$data['biblio_id'].'\');';
             echo '</script>';
         } else {
-            utility::jsAlert(__('Subject FAILED to Add. Please Contact System Administrator')."\n".$sql_op->error);
+            utility::jsAlert(__('Regulation Relation FAILED to Add. Please Contact System Administrator')."\n".$sql_op->error);
         }
     } else {
         if (!empty($_POST['topicID'])) {
             // add to current session
-            $_SESSION['kh_relation'][$_POST['topicID']] = array($_POST['biblioID'], intval($_POST['level']));
-        } else if ($subject AND empty($_POST['biblioID'])) {
+            $_SESSION['kh_relation'][$_POST['topicID']] = array($_POST['topicID'], intval($_POST['level']));
+        } else if ($subject AND empty($_POST['topicID'])) {
             // check subject
             $subject_id = checkNumber($subject);
             if ($subject_id !== false) {
